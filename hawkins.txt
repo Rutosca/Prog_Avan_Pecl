@@ -1,0 +1,2709 @@
+[2026-04-30 10:13:33] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:13:33] El nino N0001 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0002 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0003 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0004 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0005 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0006 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0007 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0008 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0009 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0010 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0011 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0012 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0013 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0014 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0015 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0016 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0017 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0018 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0019 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0020 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0021 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0022 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0023 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0024 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0025 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0026 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0027 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0028 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0029 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0030 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0031 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0032 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0033 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0034 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0035 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0036 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0037 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0038 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0039 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0040 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:33] El nino N0041 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0042 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0043 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0044 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0045 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0046 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0047 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0048 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0049 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0050 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0051 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0052 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0053 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0054 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0055 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0056 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0057 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0058 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0059 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0060 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0061 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0062 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0063 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0064 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0065 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0066 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0067 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0068 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0069 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0070 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0071 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0072 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0073 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0074 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0075 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0076 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0077 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0078 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0079 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0080 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0081 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0082 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0083 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0084 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0085 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0086 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0087 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0088 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0089 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0090 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0091 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:34] El nino N0092 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0093 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0094 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0095 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0096 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0097 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0098 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0099 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0100 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0101 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0102 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0103 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0104 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0105 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0106 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0107 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0108 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0109 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0110 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0111 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0112 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0113 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0114 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0115 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0116 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0117 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0118 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0119 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0120 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0121 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0122 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0123 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0124 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0125 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0126 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0127 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0128 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0129 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0006 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:35] El nino N0130 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0131 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0132 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0133 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0021 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:35] El nino N0134 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0135 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0136 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0030 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:35] El nino N0137 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0138 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0139 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0140 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0141 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0142 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:35] El nino N0143 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0144 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0145 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0146 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0033 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:36] El nino N0147 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0148 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0149 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0150 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0151 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0152 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0153 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0154 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0155 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0156 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0157 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0158 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0159 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0160 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0161 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0162 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0163 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0164 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0165 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0166 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0167 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0168 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0169 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0170 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0171 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0172 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0173 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0174 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0175 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0176 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0177 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0178 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0179 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0180 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0001 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:36] El nino N0181 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0182 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0183 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0184 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0011 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:36] El nino N0185 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0186 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0008 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:36] El nino N0187 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0188 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0189 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0190 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0191 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0192 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:36] El nino N0193 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0194 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0195 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0196 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0007 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:37] El nino N0197 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0198 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0199 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0200 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0201 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0202 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0203 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0204 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0205 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0206 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0207 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0208 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0209 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0210 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0211 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0212 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0213 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0214 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0215 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0216 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0217 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0218 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0219 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0220 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0221 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:13:37] Demogorgon D0000 inicia ataque... Objetivo: N0033
+[2026-04-30 10:13:37] El nino N0222 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0223 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0224 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0225 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0226 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0227 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0228 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0229 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0230 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0231 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0232 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0031 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:37] El nino N0233 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0234 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0235 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0050 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:37] El nino N0236 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0237 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0068 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:37] El nino N0238 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0239 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0240 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0241 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0242 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0243 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:37] El nino N0244 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0245 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0246 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0247 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0028 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:38] El nino N0248 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0249 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0250 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0251 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0252 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0253 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0254 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0255 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0256 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0257 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0258 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0259 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0260 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0261 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0262 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0263 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] Nino N0033 resiste el ataque de D0000
+[2026-04-30 10:13:38] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:13:38] Demogorgon D0000 inicia ataque... Objetivo: N0050
+[2026-04-30 10:13:38] El nino N0264 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0265 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0266 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0267 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0268 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0269 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0270 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0271 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0272 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0273 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0274 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0275 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0276 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0277 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0278 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0279 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0280 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0100 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:38] El nino N0281 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0282 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0283 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0284 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0115 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:38] El nino N0285 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0286 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0118 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:38] El nino N0287 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0288 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0289 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0290 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0291 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0292 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:38] El nino N0293 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0294 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0295 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0137 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:39] El nino N0296 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0297 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0298 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0299 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0300 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0301 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] Demogorgon D0000 captura a N0050
+[2026-04-30 10:13:39] El nino N0302 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0303 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0304 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0305 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0306 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0307 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0308 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0309 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0310 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0311 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0312 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0313 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0314 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0315 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0316 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0317 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0318 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0319 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0320 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0321 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0322 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0323 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0324 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0325 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0326 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0327 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0328 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0165 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:39] El nino N0329 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0330 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0331 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0142 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:39] El nino N0332 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0333 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El demogorgon D0000 captura. Propias: 1 | Globales: 1
+[2026-04-30 10:13:39] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:13:39] Demogorgon D0000 inicia ataque... Objetivo: N0030
+[2026-04-30 10:13:39] El nino N0334 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0163 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:39] El nino N0335 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0336 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0337 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0338 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:39] El nino N0339 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0340 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0341 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0342 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0139 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:40] El nino N0343 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0344 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0345 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0346 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0347 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0348 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0349 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0350 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0351 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0352 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0353 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0354 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0355 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0356 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0357 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0358 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0359 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0360 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0361 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0362 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0363 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0364 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0365 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0366 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0367 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0368 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0369 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0370 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0371 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0372 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0373 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0374 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0006 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:40] El nino N0006 ha depositado sangre. Total: 1
+[2026-04-30 10:13:40] El nino N0375 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0376 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0377 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0213 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:40] El nino N0378 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0379 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0380 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0223 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:40] El nino N0381 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0382 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0383 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0384 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0385 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:40] El nino N0386 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0387 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0388 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] Demogorgon D0000 captura a N0030
+[2026-04-30 10:13:41] El nino N0389 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0208 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:41] El nino N0390 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0391 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0392 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0393 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0394 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0395 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0396 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0397 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0398 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0399 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0400 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0401 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0402 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0403 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0404 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0405 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0406 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0407 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0408 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0409 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0410 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0411 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0412 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0413 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0414 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0415 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0416 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0417 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0418 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0419 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0420 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0421 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0422 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0185 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:41] El nino N0423 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0424 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0425 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0426 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0021 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:41] El nino N0021 ha depositado sangre. Total: 2
+[2026-04-30 10:13:41] El nino N0427 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0428 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0263 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:41] El nino N0429 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0430 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0431 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0432 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0433 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0434 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0435 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:41] El nino N0436 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El demogorgon D0000 captura. Propias: 2 | Globales: 2
+[2026-04-30 10:13:42] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:13:42] Demogorgon D0000 inicia ataque... Objetivo: N0139
+[2026-04-30 10:13:42] El nino N0437 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0438 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0439 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0007 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:42] El nino N0007 ha depositado sangre. Total: 3
+[2026-04-30 10:13:42] El nino N0440 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0441 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0442 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0443 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0444 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0445 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0446 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0447 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0448 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0449 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0450 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0451 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0452 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0453 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0454 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0455 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0456 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0457 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0458 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0459 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0460 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0461 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0462 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0463 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0464 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0465 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0466 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0467 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0468 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] Nino N0139 resiste el ataque de D0000
+[2026-04-30 10:13:42] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:13:42] Demogorgon D0000 inicia ataque... Objetivo: N0213
+[2026-04-30 10:13:42] El nino N0469 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0470 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0031 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:42] El nino N0031 ha depositado sangre. Total: 4
+[2026-04-30 10:13:42] El nino N0471 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0472 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0473 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0011 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:42] El nino N0011 ha depositado sangre. Total: 5
+[2026-04-30 10:13:42] El nino N0474 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0475 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0008 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:42] El nino N0008 ha depositado sangre. Total: 6
+[2026-04-30 10:13:42] El nino N0476 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0477 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0478 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0479 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:42] El nino N0480 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0481 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0482 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0028 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:43] El nino N0028 ha depositado sangre. Total: 7
+[2026-04-30 10:13:43] El nino N0483 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0484 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0485 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0486 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0487 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] Nino N0213 resiste el ataque de D0000
+[2026-04-30 10:13:43] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:13:43] Demogorgon D0000 inicia ataque... Objetivo: N0139
+[2026-04-30 10:13:43] El nino N0488 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0489 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0490 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0491 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0492 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0493 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0494 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0495 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0496 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0006 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:43] El nino N0497 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0498 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0499 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0500 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0501 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0502 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0503 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0504 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0505 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0100 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:43] El nino N0100 ha depositado sangre. Total: 8
+[2026-04-30 10:13:43] El nino N0506 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0507 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0508 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0509 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0115 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:43] El nino N0115 ha depositado sangre. Total: 9
+[2026-04-30 10:13:43] El nino N0068 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:43] El nino N0068 ha depositado sangre. Total: 10
+[2026-04-30 10:13:43] El nino N0510 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0511 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0512 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0513 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] El nino N0514 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:43] Demogorgon D0000 captura a N0139
+[2026-04-30 10:13:43] El nino N0515 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0516 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0517 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0137 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:44] El nino N0137 ha depositado sangre. Total: 11
+[2026-04-30 10:13:44] El nino N0518 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0021 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:44] El nino N0519 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0520 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0521 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0522 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0523 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0524 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0525 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0526 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0527 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0528 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0529 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0530 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0531 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0532 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0533 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0534 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0535 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0536 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0537 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0538 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0539 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0540 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0541 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0542 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El demogorgon D0000 captura. Propias: 3 | Globales: 3
+[2026-04-30 10:13:44] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:13:44] Demogorgon D0000 inicia ataque... Objetivo: N0185
+[2026-04-30 10:13:44] El nino N0543 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0544 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0165 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:44] El nino N0165 ha depositado sangre. Total: 12
+[2026-04-30 10:13:44] El nino N0545 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0546 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0547 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0142 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:44] El nino N0142 ha depositado sangre. Total: 13
+[2026-04-30 10:13:44] El nino N0118 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:44] El nino N0118 ha depositado sangre. Total: 14
+[2026-04-30 10:13:44] El nino N0548 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0007 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:44] El nino N0549 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0550 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0551 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:44] El nino N0552 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0553 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0554 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0555 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0033 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:45] El nino N0033 ha depositado sangre. Total: 15
+[2026-04-30 10:13:45] El nino N0556 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0557 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0558 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0559 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0560 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0561 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0562 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0563 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0564 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0565 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0566 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] Nino N0185 resiste el ataque de D0000
+[2026-04-30 10:13:45] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:13:45] Demogorgon D0000 inicia ataque... Objetivo: N0263
+[2026-04-30 10:13:45] El nino N0567 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0568 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0569 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0570 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0571 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0572 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0573 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0574 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0575 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0576 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0577 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0578 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0579 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0001 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:45] El nino N0001 ha depositado sangre. Total: 16
+[2026-04-30 10:13:45] El nino N0580 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0581 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0582 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0583 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0243 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:45] El nino N0008 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:45] El nino N0163 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:45] El nino N0163 ha depositado sangre. Total: 17
+[2026-04-30 10:13:45] El nino N0584 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0585 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0586 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0587 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:45] El nino N0588 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0589 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0068 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:46] El nino N0590 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0031 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:46] El nino N0240 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:46] El nino N0591 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0592 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0593 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0594 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0595 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0596 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0597 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0598 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] Nino N0263 resiste el ataque de D0000
+[2026-04-30 10:13:46] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:13:46] Demogorgon D0000 inicia ataque... Objetivo: N0240
+[2026-04-30 10:13:46] El nino N0599 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0600 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0601 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0602 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0603 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0604 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0605 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0606 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0607 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0608 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0609 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0610 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0028 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:46] El nino N0611 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0612 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0613 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0614 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0006 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0011 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:46] El nino N0615 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0281 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:46] El nino N0616 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0617 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0165 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:46] El nino N0618 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0619 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0213 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:46] El nino N0213 ha depositado sangre. Total: 18
+[2026-04-30 10:13:46] El nino N0620 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0223 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:46] El nino N0223 ha depositado sangre. Total: 19
+[2026-04-30 10:13:46] El nino N0621 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0118 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:46] El nino N0622 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0623 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:46] El nino N0624 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0625 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0626 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0627 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0208 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:47] El nino N0208 ha depositado sangre. Total: 20
+[2026-04-30 10:13:47] El nino N0628 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0629 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0630 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0631 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0632 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0633 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0634 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0635 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0636 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0637 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0638 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0639 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0640 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0641 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0642 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0100 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:47] El nino N0643 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0115 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:47] El nino N0644 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0645 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0646 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0647 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0648 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] Nino N0240 resiste el ataque de D0000
+[2026-04-30 10:13:47] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:13:47] Demogorgon D0000 inicia ataque... Objetivo: N0281
+[2026-04-30 10:13:47] El nino N0649 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0021 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0650 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0651 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0033 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:47] El nino N0652 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0653 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0654 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0185 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:47] El nino N0185 ha depositado sangre. Total: 21
+[2026-04-30 10:13:47] El nino N0655 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0656 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0137 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:47] El nino N0657 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0478 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:47] El nino N0658 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0263 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:47] El nino N0263 ha depositado sangre. Total: 22
+[2026-04-30 10:13:47] El nino N0659 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0660 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0661 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0662 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:47] El nino N0663 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0664 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0665 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0666 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0667 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0482 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:48] El nino N0668 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0669 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] Nino N0281 resiste el ataque de D0000
+[2026-04-30 10:13:48] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:13:48] El nino N0670 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0671 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0672 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0673 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0674 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0675 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0676 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0677 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0678 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0679 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0680 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0681 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0682 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0683 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0001 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:48] El nino N0684 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0685 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0686 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0687 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0688 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0689 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0690 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0691 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0692 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0693 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0694 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0695 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0696 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0142 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:48] El nino N0533 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:48] El nino N0697 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0698 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0699 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0543 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:48] El nino N0313 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:48] El nino N0700 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0701 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0702 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:48] El nino N0703 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0704 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0705 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0706 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0707 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0577 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:49] El nino N0708 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0709 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0710 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0711 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0712 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0163 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:49] El nino N0713 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0714 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0715 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0716 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0717 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0718 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0719 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0720 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0721 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0722 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0723 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0208 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:49] El nino N0007 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0724 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0725 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0726 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0727 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0728 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0729 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0730 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0731 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0732 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0733 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0600 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:49] El nino N0734 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0735 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0736 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0737 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0569 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:49] El nino N0738 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0606 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:49] El nino N0213 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:49] El nino N0739 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0740 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0165 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:49] El nino N0741 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0742 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0743 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0223 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:50] El nino N0744 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0745 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0604 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:50] El nino N0746 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0747 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0748 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0749 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0118 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0750 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0185 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:50] El nino N0751 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0011 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0752 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0753 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0754 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0008 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0755 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0756 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0757 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0758 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0759 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0760 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0761 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0762 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0763 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0764 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0031 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0765 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0263 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:50] El nino N0766 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0767 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0768 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0769 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0770 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0649 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:50] El nino N0771 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0772 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0068 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0100 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0773 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0608 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:50] El nino N0774 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0637 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:50] El nino N0775 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0776 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:50] El nino N0777 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0778 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0779 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0780 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0781 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0624 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:51] El nino N0782 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0783 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0784 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0115 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0785 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0786 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0787 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0033 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0788 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0789 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0790 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0791 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0792 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0793 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0794 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0795 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0796 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0028 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0797 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0798 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0799 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0800 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0801 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0802 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0803 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0804 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0805 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0806 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0807 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0281 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:51] El nino N0281 ha depositado sangre. Total: 23
+[2026-04-30 10:13:51] El nino N0808 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0809 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0810 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0811 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0243 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:51] El nino N0243 ha depositado sangre. Total: 24
+[2026-04-30 10:13:51] El nino N0812 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0675 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:51] El nino N0813 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:51] El nino N0814 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0815 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0816 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0817 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0818 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0819 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0240 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:52] El nino N0240 ha depositado sangre. Total: 25
+[2026-04-30 10:13:52] El nino N0820 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0821 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0822 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0137 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0823 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0824 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0825 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:13:52] Demogorgon D0000 inicia ataque... Objetivo: N0543
+[2026-04-30 10:13:52] El nino N0826 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0827 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0828 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0142 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0829 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0830 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0831 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0832 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0833 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0834 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0835 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0836 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0837 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0838 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0839 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0840 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0841 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0842 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0843 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0001 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0844 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0680 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:52] El nino N0845 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0846 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0847 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0848 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0478 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:52] El nino N0478 ha depositado sangre. Total: 26
+[2026-04-30 10:13:52] El nino N0849 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0698 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:52] El nino N0850 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:52] El nino N0851 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0852 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0853 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0854 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0855 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0856 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0482 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:53] El nino N0482 ha depositado sangre. Total: 27
+[2026-04-30 10:13:53] El nino N0857 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0858 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0859 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0860 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0861 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0862 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0863 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0864 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0865 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0223 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0866 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0867 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] Nino N0543 resiste el ataque de D0000
+[2026-04-30 10:13:53] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:13:53] Demogorgon D0000 inicia ataque... Objetivo: N0680
+[2026-04-30 10:13:53] El nino N0868 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0869 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0870 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0871 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0872 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0873 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0163 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0874 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0875 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0876 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0877 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0878 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0879 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0880 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0533 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:53] El nino N0533 ha depositado sangre. Total: 28
+[2026-04-30 10:13:53] El nino N0881 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0185 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0882 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0883 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0281 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:53] El nino N0884 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:53] El nino N0653 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:53] El nino N0313 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:53] El nino N0313 ha depositado sangre. Total: 29
+[2026-04-30 10:13:53] El nino N0885 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0886 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0887 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0888 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0889 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0890 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0891 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0673 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:54] El nino N0892 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0893 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0894 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0895 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0896 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0897 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0213 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0898 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0899 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0900 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] Nino N0680 resiste el ataque de D0000
+[2026-04-30 10:13:54] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:13:54] Demogorgon D0000 inicia ataque... Objetivo: N0673
+[2026-04-30 10:13:54] El nino N0901 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0902 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0903 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0904 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0208 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0905 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0906 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0907 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0908 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0909 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0910 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0911 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0912 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0913 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0914 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0915 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0916 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0917 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0918 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0600 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:54] El nino N0600 ha depositado sangre. Total: 30
+[2026-04-30 10:13:54] El nino N0919 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0920 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0921 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0543 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:54] El nino N0543 ha depositado sangre. Total: 31
+[2026-04-30 10:13:54] El nino N0922 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:54] El nino N0243 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:54] El nino N0606 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:54] El nino N0606 ha depositado sangre. Total: 32
+[2026-04-30 10:13:54] El nino N0923 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0924 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0925 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0926 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0927 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0928 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0263 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0929 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0930 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0577 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:55] El nino N0577 ha depositado sangre. Total: 33
+[2026-04-30 10:13:55] El nino N0931 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0932 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0933 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0934 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0935 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0936 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0937 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0938 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0939 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0940 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0941 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0942 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0943 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0944 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0945 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0946 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0947 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0948 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0240 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:55] El nino N0949 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0950 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0951 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0952 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0953 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0954 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0955 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0482 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:55] El nino N0956 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0760 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:55] El nino N0957 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] Nino N0673 resiste el ataque de D0000
+[2026-04-30 10:13:55] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:13:55] Demogorgon D0000 inicia ataque... Objetivo: N0653
+[2026-04-30 10:13:55] El nino N0958 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0959 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0960 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:55] El nino N0569 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:55] El nino N0569 ha depositado sangre. Total: 34
+[2026-04-30 10:13:55] El nino N0478 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:55] El nino N0753 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:13:55] El nino N0961 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0962 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0963 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0964 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0965 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0966 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0967 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0968 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0969 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0604 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:56] El nino N0604 ha depositado sangre. Total: 35
+[2026-04-30 10:13:56] El nino N0970 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0313 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:56] El nino N0971 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0972 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0973 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0974 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0975 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0533 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:56] El nino N0976 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0977 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0978 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0979 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0980 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0981 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0982 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0983 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0984 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0985 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0986 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0987 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0988 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0989 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0990 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0991 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0992 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0993 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0994 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0995 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0996 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0997 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0649 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:56] El nino N0649 ha depositado sangre. Total: 36
+[2026-04-30 10:13:56] El nino N0998 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0999 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N1000 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N1001 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:56] El nino N0608 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:56] El nino N0608 ha depositado sangre. Total: 37
+[2026-04-30 10:13:56] El nino N1002 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N0637 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:57] El nino N0637 ha depositado sangre. Total: 38
+[2026-04-30 10:13:57] El nino N1003 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1004 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1005 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1006 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N0606 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:57] El nino N1007 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] Demogorgon D0000 captura a N0653
+[2026-04-30 10:13:57] El nino N1008 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N0624 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:57] El nino N0624 ha depositado sangre. Total: 39
+[2026-04-30 10:13:57] El nino N1009 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1010 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1011 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N0543 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:57] El nino N1012 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1013 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1014 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1015 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1016 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1017 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1018 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1019 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1020 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1021 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1022 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1023 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1024 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1025 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1026 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1027 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1028 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1029 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1030 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1031 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1032 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N0680 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:57] El nino N0680 ha depositado sangre. Total: 40
+[2026-04-30 10:13:57] El nino N1033 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1034 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N1035 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:57] El nino N0807 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:57] El nino N1036 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N0675 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:58] El nino N0675 ha depositado sangre. Total: 41
+[2026-04-30 10:13:58] El nino N1037 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El demogorgon D0000 captura. Propias: 4 | Globales: 4
+[2026-04-30 10:13:58] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:13:58] Demogorgon D0000 inicia ataque... Objetivo: N0753
+[2026-04-30 10:13:58] El nino N1038 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1039 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1040 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1041 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1042 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1043 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N0765 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:13:58] El nino N1044 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1045 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1046 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1047 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1048 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1049 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N0243 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1050 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N0577 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:58] El nino N1051 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1052 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1053 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1054 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1055 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1056 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1057 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1058 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1059 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1060 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1061 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] Nino N0753 resiste el ataque de D0000
+[2026-04-30 10:13:58] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:13:58] Demogorgon D0000 inicia ataque... Objetivo: N0765
+[2026-04-30 10:13:58] El nino N1062 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1063 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N0600 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:58] El nino N1064 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1065 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1066 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1067 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1068 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1069 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N0281 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N0862 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:58] El nino N1070 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1071 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1072 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:58] El nino N1073 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N0950 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:13:59] El nino N1074 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N0698 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:59] El nino N0698 ha depositado sangre. Total: 42
+[2026-04-30 10:13:59] El nino N1075 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1076 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1077 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1078 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1079 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1080 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1081 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1082 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N0673 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:13:59] El nino N0673 ha depositado sangre. Total: 43
+[2026-04-30 10:13:59] El nino N1083 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1084 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1085 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1086 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1087 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1088 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1089 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1090 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1091 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1092 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1093 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1094 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] Nino N0765 resiste el ataque de D0000
+[2026-04-30 10:13:59] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:13:59] Demogorgon D0000 inicia ataque... Objetivo: N0950
+[2026-04-30 10:13:59] El nino N1095 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1096 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N0569 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:59] El nino N1097 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1098 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1099 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1100 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1101 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1102 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N0604 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:13:59] El nino N1103 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1104 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1105 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1106 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1107 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1108 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1109 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1110 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N0978 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:13:59] El nino N1111 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N0240 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1112 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1113 se ha movido hacia el sotano Byers
+[2026-04-30 10:13:59] El nino N1114 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0971 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:00] El nino N0856 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:00] El nino N1115 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1116 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0608 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:00] El nino N1117 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0675 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:00] El nino N1118 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1119 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0637 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:00] El nino N1120 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1121 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0938 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:00] El nino N1122 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1123 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0313 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1124 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0478 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] Nino N0950 resiste el ataque de D0000
+[2026-04-30 10:14:00] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:00] Demogorgon D0000 inicia ataque... Objetivo: N0862
+[2026-04-30 10:14:00] El nino N1125 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1126 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0482 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1127 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1128 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1129 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0649 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:00] El nino N1130 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1131 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1132 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1133 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1134 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N0533 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1135 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1136 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1137 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1138 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1139 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1140 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1141 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1142 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1143 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1144 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1145 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1146 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1027 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:00] El nino N0680 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:00] El nino N1147 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1148 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:00] El nino N1149 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] Demogorgon D0000 captura a N0862
+[2026-04-30 10:14:01] El nino N1150 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N0992 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:01] El nino N1151 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N0753 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:01] El nino N0753 ha depositado sangre. Total: 44
+[2026-04-30 10:14:01] El nino N1152 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1153 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1154 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N0624 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:01] El nino N1155 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N0606 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1156 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1157 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1158 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1159 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N0990 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:01] El nino N1160 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1161 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1162 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1163 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1164 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1165 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1166 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1167 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1168 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1169 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1170 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N0698 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:01] El nino N1171 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N0543 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1172 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1173 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1174 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1175 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1176 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1177 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1178 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1179 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1180 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1181 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1182 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1183 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N0760 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:01] El nino N0760 ha depositado sangre. Total: 45
+[2026-04-30 10:14:01] El nino N1184 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1185 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El demogorgon D0000 captura. Propias: 5 | Globales: 5
+[2026-04-30 10:14:01] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:14:01] Demogorgon D0000 inicia ataque... Objetivo: N0992
+[2026-04-30 10:14:01] El nino N1186 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:01] El nino N1187 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1062 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:02] El nino N1188 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1018 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:02] El nino N1189 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1190 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1191 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1192 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1193 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1194 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N0577 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1195 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1050 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:02] El nino N1196 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1197 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1198 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1199 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1200 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1201 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1202 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1203 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1204 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N0600 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1205 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1206 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1207 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1208 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1209 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1210 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1211 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1212 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1213 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1214 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1215 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1216 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N0673 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:02] El nino N1217 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1218 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1219 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1033 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:02] El nino N1220 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1221 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1222 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1223 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:02] El nino N1224 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1086 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:03] El nino N1225 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1092 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:03] El nino N1226 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N0604 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1227 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1228 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1229 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1230 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1231 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1079 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:03] El nino N1232 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N0675 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1233 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N0569 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1234 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1235 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1236 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1237 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1238 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1239 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1240 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] Demogorgon D0000 captura a N0992
+[2026-04-30 10:14:03] El nino N1241 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1242 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1243 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1244 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1245 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1246 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1247 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1248 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1249 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1250 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1251 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1252 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N0637 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1253 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1254 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1255 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1256 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1257 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N0753 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:03] El nino N1258 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1102 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:03] El nino N1259 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1260 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:03] El nino N1261 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1262 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N0807 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:04] El nino N0807 ha depositado sangre. Total: 46
+[2026-04-30 10:14:04] El nino N1263 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N0482 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:04] El nino N1264 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1265 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1266 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1267 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El demogorgon D0000 captura. Propias: 6 | Globales: 6
+[2026-04-30 10:14:04] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:04] Demogorgon D0000 inicia ataque... Objetivo: N1027
+[2026-04-30 10:14:04] El nino N1268 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1269 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1270 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1271 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N0765 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:04] El nino N0765 ha depositado sangre. Total: 47
+[2026-04-30 10:14:04] El nino N1272 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1273 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1274 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1275 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1276 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1277 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N0760 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:04] El nino N1278 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1279 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1280 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1281 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1282 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1283 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1284 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1285 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1286 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1287 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1288 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1289 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1290 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1291 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1292 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1293 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1294 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1295 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] Demogorgon D0000 captura a N1027
+[2026-04-30 10:14:04] El nino N1296 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1297 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N0649 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N0624 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1298 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N0978 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:04] El nino N0978 ha depositado sangre. Total: 48
+[2026-04-30 10:14:04] El nino N1299 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:04] El nino N1300 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1301 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N0608 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1302 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N0950 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:05] El nino N0950 ha depositado sangre. Total: 49
+[2026-04-30 10:14:05] El nino N1303 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1168 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:05] El nino N1304 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1305 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1306 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1307 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1308 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1309 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1310 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1311 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1139 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:05] El nino N1312 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1313 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1314 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N0680 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1315 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1316 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1317 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1318 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1319 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1320 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1321 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1322 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1323 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1324 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El demogorgon D0000 captura. Propias: 7 | Globales: 7
+[2026-04-30 10:14:05] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:14:05] Demogorgon D0000 inicia ataque... Objetivo: N0990
+[2026-04-30 10:14:05] El nino N1325 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1326 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N0698 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1327 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1328 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1329 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1330 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1331 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1332 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1333 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1334 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1335 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1336 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1170 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:05] El nino N1337 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:05] El nino N1338 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1339 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1340 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N0971 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:06] El nino N0971 ha depositado sangre. Total: 50
+[2026-04-30 10:14:06] El nino N1341 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N0856 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:06] El nino N0856 ha depositado sangre. Total: 51
+[2026-04-30 10:14:06] El nino N1342 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1343 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1344 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1345 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1346 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1347 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N0807 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:06] El nino N1348 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N0938 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:06] El nino N0938 ha depositado sangre. Total: 52
+[2026-04-30 10:14:06] El nino N1349 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1350 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1351 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1352 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1353 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N0765 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:06] El nino N1354 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1355 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1356 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1357 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] Demogorgon D0000 captura a N0990
+[2026-04-30 10:14:06] El nino N1358 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N0673 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1359 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1360 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1361 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1362 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1363 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1364 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1365 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1366 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1367 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1368 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1369 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1370 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1371 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1372 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1373 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N1235 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:06] El nino N1374 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:06] El nino N0978 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:07] El nino N1375 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1376 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1377 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1378 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1133 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:07] El nino N0577 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:07] El nino N1379 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1380 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1381 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1382 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N0753 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1383 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1384 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1385 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1386 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1050 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:07] El nino N1050 ha depositado sangre. Total: 53
+[2026-04-30 10:14:07] El nino N1387 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1388 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1389 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1390 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1391 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1392 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El demogorgon D0000 captura. Propias: 8 | Globales: 8
+[2026-04-30 10:14:07] VECNA crea nuevo Demogorgon: D0002 (total: 2)
+[2026-04-30 10:14:07] El Demogorgon D0002 se ha movido a Bosque
+[2026-04-30 10:14:07] Demogorgon D0002 inicia ataque... Objetivo: N1170
+[2026-04-30 10:14:07] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:14:07] Demogorgon D0000 inicia ataque... Objetivo: N1133
+[2026-04-30 10:14:07] El nino N1393 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1394 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1395 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1396 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1397 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1398 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1399 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1400 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N0950 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:07] El nino N1401 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1402 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1403 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1404 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N0760 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1405 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1406 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1407 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1408 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1409 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1410 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1411 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1412 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:07] El nino N1033 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:07] El nino N1033 ha depositado sangre. Total: 54
+[2026-04-30 10:14:07] El nino N1413 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1414 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1415 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1086 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:08] El nino N1086 ha depositado sangre. Total: 55
+[2026-04-30 10:14:08] El nino N1416 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1018 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:08] El nino N1018 ha depositado sangre. Total: 56
+[2026-04-30 10:14:08] El nino N1417 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] Nino N1170 resiste el ataque de D0002
+[2026-04-30 10:14:08] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:14:08] Demogorgon D0002 inicia ataque... Objetivo: N1139
+[2026-04-30 10:14:08] El nino N1418 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1419 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1420 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1421 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N0971 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:08] El nino N1422 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1423 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1424 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1214 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:08] El nino N1425 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1426 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] Nino N1133 resiste el ataque de D0000
+[2026-04-30 10:14:08] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:14:08] Demogorgon D0000 inicia ataque... Objetivo: N1214
+[2026-04-30 10:14:08] El nino N1427 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1428 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1429 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1430 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1431 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1432 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1433 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1434 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1435 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1436 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1437 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1438 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1439 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1440 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1441 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1442 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1443 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1444 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1445 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1446 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1447 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1448 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1449 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1450 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:08] El nino N1102 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:08] El nino N1102 ha depositado sangre. Total: 57
+[2026-04-30 10:14:08] El nino N1451 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1452 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N0856 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:09] El nino N1453 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1454 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1455 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N0482 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:09] El nino N0482 ha depositado sangre. Total: 58
+[2026-04-30 10:14:09] El nino N1062 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:09] El nino N1062 ha depositado sangre. Total: 59
+[2026-04-30 10:14:09] El nino N1456 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1457 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1458 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1459 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1460 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1461 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1462 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1463 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1079 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:09] El nino N1079 ha depositado sangre. Total: 60
+[2026-04-30 10:14:09] El nino N1464 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1465 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1466 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1467 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] Demogorgon D0002 captura a N1139
+[2026-04-30 10:14:09] El nino N1468 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1469 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] Demogorgon D0000 captura a N1214
+[2026-04-30 10:14:09] El nino N1470 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1471 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1472 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1473 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1474 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1475 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1476 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1477 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1478 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1479 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1480 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1481 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1482 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1483 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1484 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1485 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1486 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1487 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1488 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N0938 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:09] El nino N1489 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:09] El nino N1260 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:10] El nino N0807 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1490 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1491 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1492 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El demogorgon D0002 captura. Propias: 1 | Globales: 9
+[2026-04-30 10:14:10] El Demogorgon D0002 se ha movido a Alcantarillado
+[2026-04-30 10:14:10] Demogorgon D0002 inicia ataque... Objetivo: N0577
+[2026-04-30 10:14:10] El nino N1493 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El demogorgon D0000 captura. Propias: 9 | Globales: 10
+[2026-04-30 10:14:10] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:14:10] Demogorgon D0000 inicia ataque... Objetivo: N1133
+[2026-04-30 10:14:10] El nino N1281 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:10] El nino N1092 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:10] El nino N1092 ha depositado sangre. Total: 61
+[2026-04-30 10:14:10] El nino N1494 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1495 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1496 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1497 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1498 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N0765 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1499 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1500 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:10] El nino N1323 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:10] El nino N1033 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:10] El nino N1086 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:10] Nino N1133 resiste el ataque de D0000
+[2026-04-30 10:14:10] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:10] Demogorgon D0000 inicia ataque... Objetivo: N1235
+[2026-04-30 10:14:10] El nino N1050 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:10] El nino N0950 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:11] El nino N1385 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:11] El nino N1168 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:11] El nino N1168 ha depositado sangre. Total: 62
+[2026-04-30 10:14:11] El nino N0760 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:11] El nino N0978 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:11] El nino N1018 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:11] El nino N1393 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:11] Demogorgon D0002 captura a N0577
+[2026-04-30 10:14:12] El nino N1170 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:12] El nino N1170 ha depositado sangre. Total: 63
+[2026-04-30 10:14:12] El nino N1273 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:12] El nino N1422 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:12] El nino N1079 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:12] El demogorgon D0002 captura. Propias: 2 | Globales: 11
+[2026-04-30 10:14:12] El Demogorgon D0002 se ha movido a Bosque
+[2026-04-30 10:14:12] Demogorgon D0002 inicia ataque... Objetivo: N1260
+[2026-04-30 10:14:12] El nino N1429 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:12] Nino N1235 resiste el ataque de D0000
+[2026-04-30 10:14:12] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:14:12] Demogorgon D0000 inicia ataque... Objetivo: N1273
+[2026-04-30 10:14:12] El nino N0482 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:12] El nino N1062 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:12] Nino N1260 resiste el ataque de D0002
+[2026-04-30 10:14:12] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:14:12] Demogorgon D0002 inicia ataque... Objetivo: N1323
+[2026-04-30 10:14:12] El nino N1102 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:13] El nino N1431 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:13] El nino N0971 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:13] El nino N1461 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:13] El nino N1133 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:13] El nino N1133 ha depositado sangre. Total: 64
+[2026-04-30 10:14:13] Demogorgon D0000 captura a N1273
+[2026-04-30 10:14:13] El nino N0856 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:13] El nino N1457 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:13] El nino N1092 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:13] Demogorgon D0002 captura a N1323
+[2026-04-30 10:14:13] El demogorgon D0000 captura. Propias: 10 | Globales: 12
+[2026-04-30 10:14:13] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:13] Demogorgon D0000 inicia ataque... Objetivo: N1431
+[2026-04-30 10:14:13] El nino N1033 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:14] El nino N1235 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:14] El nino N1235 ha depositado sangre. Total: 65
+[2026-04-30 10:14:14] El nino N1481 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:14] El nino N1448 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:14] El nino N1500 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:14] El nino N1168 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:14] El nino N1170 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:14] El nino N1018 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:14] Demogorgon D0000 captura a N1431
+[2026-04-30 10:14:14] El demogorgon D0002 captura. Propias: 3 | Globales: 13
+[2026-04-30 10:14:14] El Demogorgon D0002 se ha movido a Alcantarillado
+[2026-04-30 10:14:14] Demogorgon D0002 inicia ataque... Objetivo: N1461
+[2026-04-30 10:14:14] El nino N0938 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:14] El nino N1050 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:15] El nino N1260 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:15] El nino N1260 ha depositado sangre. Total: 66
+[2026-04-30 10:14:15] El nino N1086 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:15] El nino N1488 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:15] El nino N1281 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:15] El nino N1281 ha depositado sangre. Total: 67
+[2026-04-30 10:14:15] El demogorgon D0000 captura. Propias: 11 | Globales: 14
+[2026-04-30 10:14:15] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:14:15] Demogorgon D0000 inicia ataque... Objetivo: N1448
+[2026-04-30 10:14:15] El nino N1470 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:15] Nino N1461 resiste el ataque de D0002
+[2026-04-30 10:14:15] El Demogorgon D0002 se ha movido a Bosque
+[2026-04-30 10:14:15] El nino N0482 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:15] El nino N1062 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:16] El nino N1133 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:16] El nino N1385 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:16] El nino N1385 ha depositado sangre. Total: 68
+[2026-04-30 10:14:16] El nino N1079 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:16] Nino N1448 resiste el ataque de D0000
+[2026-04-30 10:14:16] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:16] El nino N0760 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:16] El nino N0760 ha depositado sangre. Total: 69
+[2026-04-30 10:14:16] El nino N1498 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:16] El nino N1235 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:16] El nino N1471 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:17] El nino N1102 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:17] El nino N1092 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:17] El nino N1480 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:17] El nino N0950 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:17] El nino N1422 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:17] El nino N1422 ha depositado sangre. Total: 70
+[2026-04-30 10:14:17] El nino N1393 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:17] El nino N1393 ha depositado sangre. Total: 71
+[2026-04-30 10:14:17] El nino N1260 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:17] El nino N1281 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:18] El nino N1495 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:18] El nino N1461 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:18] El nino N1461 ha depositado sangre. Total: 72
+[2026-04-30 10:14:18] El nino N1445 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:18] El nino N1457 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:18] El nino N1457 ha depositado sangre. Total: 73
+[2026-04-30 10:14:18] El nino N1170 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:18] El nino N1385 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:18] El nino N1168 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:18] El nino N0760 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:19] El nino N0856 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:19] El nino N1086 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:19] El nino N1481 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:19] El nino N1481 ha depositado sangre. Total: 74
+[2026-04-30 10:14:19] El nino N1235 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:19] El nino N1429 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:19] El nino N1429 ha depositado sangre. Total: 75
+[2026-04-30 10:14:20] El Demogorgon D0002 se ha movido a Alcantarillado
+[2026-04-30 10:14:20] Demogorgon D0002 inicia ataque... Objetivo: N0950
+[2026-04-30 10:14:20] El nino N1473 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:20] El nino N1488 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:20] El nino N1488 ha depositado sangre. Total: 76
+[2026-04-30 10:14:20] El nino N1448 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:20] El nino N1448 ha depositado sangre. Total: 77
+[2026-04-30 10:14:20] El nino N1500 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:20] El nino N1500 ha depositado sangre. Total: 78
+[2026-04-30 10:14:20] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:14:20] Demogorgon D0000 inicia ataque... Objetivo: N1498
+[2026-04-30 10:14:20] El nino N1133 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:20] El nino N1422 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:20] El nino N1461 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:21] Nino N0950 resiste el ataque de D0002
+[2026-04-30 10:14:21] El Demogorgon D0002 se ha movido a Bosque
+[2026-04-30 10:14:21] Demogorgon D0002 inicia ataque... Objetivo: N1480
+[2026-04-30 10:14:21] El nino N1018 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:21] El nino N1499 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:21] El nino N1493 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:21] El nino N1393 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:21] El nino N1281 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:21] El nino N1471 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:21] El nino N1471 ha depositado sangre. Total: 79
+[2026-04-30 10:14:21] Demogorgon D0000 captura a N1498
+[2026-04-30 10:14:21] El nino N1260 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:21] El nino N1457 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:22] El nino N1092 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:22] El demogorgon D0000 captura. Propias: 12 | Globales: 15
+[2026-04-30 10:14:22] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:14:22] El nino N0950 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:22] El nino N0950 ha depositado sangre. Total: 80
+[2026-04-30 10:14:22] El nino N0807 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:22] Demogorgon D0002 captura a N1480
+[2026-04-30 10:14:22] El nino N1470 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:22] El nino N1470 ha depositado sangre. Total: 81
+[2026-04-30 10:14:22] El nino N1488 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:22] El nino N1481 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:22] El demogorgon D0002 captura. Propias: 4 | Globales: 16
+[2026-04-30 10:14:22] VECNA crea nuevo Demogorgon: D0003 (total: 3)
+[2026-04-30 10:14:22] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:14:22] El Demogorgon D0003 se ha movido a Centro Comercial
+[2026-04-30 10:14:22] El nino N1429 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:23] El nino N1436 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:23] El nino N1385 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:23] El nino N1445 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:23] El nino N1445 ha depositado sangre. Total: 82
+[2026-04-30 10:14:23] El nino N1468 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:23] El nino N0760 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:23] El nino N0765 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:23] El nino N1500 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:24] El nino N1448 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:24] El nino N1495 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:24] El nino N1495 ha depositado sangre. Total: 83
+[2026-04-30 10:14:24] El nino N0978 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:24] El nino N1483 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:24] El nino N1079 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:24] El nino N1422 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:24] El nino N1461 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:25] El nino N1473 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:25] El nino N1473 ha depositado sangre. Total: 84
+[2026-04-30 10:14:25] El nino N1471 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:25] El nino N1050 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:25] El nino N1086 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:25] El nino N1086 ha depositado sangre. Total: 85
+[2026-04-30 10:14:25] El nino N1494 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:25] El nino N0950 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:25] El nino N1393 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:26] El nino N1470 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:26] El nino N0856 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:26] El nino N0856 ha depositado sangre. Total: 86
+[2026-04-30 10:14:26] El nino N1445 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:26] El nino N1499 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:26] El nino N1499 ha depositado sangre. Total: 87
+[2026-04-30 10:14:26] El nino N1493 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:26] El nino N1493 ha depositado sangre. Total: 88
+[2026-04-30 10:14:26] El nino N1481 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:26] El nino N1062 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:26] El nino N1457 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:26] El nino N1488 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:26] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:26] Demogorgon D0000 inicia ataque... Objetivo: N1436
+[2026-04-30 10:14:27] El nino N1429 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:27] El nino N1018 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:27] El nino N1018 ha depositado sangre. Total: 89
+[2026-04-30 10:14:27] El nino N0807 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:27] El nino N0807 ha depositado sangre. Total: 90
+[2026-04-30 10:14:27] El nino N1476 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:27] El Demogorgon D0003 se ha movido a Alcantarillado
+[2026-04-30 10:14:27] Demogorgon D0003 inicia ataque... Objetivo: N1476
+[2026-04-30 10:14:27] El nino N1496 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:27] El nino N1086 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:27] El Demogorgon D0002 se ha movido a Alcantarillado
+[2026-04-30 10:14:27] Demogorgon D0002 inicia ataque... Objetivo: N1050
+[2026-04-30 10:14:27] El nino N1448 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:27] El nino N1495 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:28] Nino N1436 resiste el ataque de D0000
+[2026-04-30 10:14:28] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:14:28] Demogorgon D0000 inicia ataque... Objetivo: N1494
+[2026-04-30 10:14:28] El nino N1092 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:28] El nino N1092 ha depositado sangre. Total: 91
+[2026-04-30 10:14:28] El nino N1477 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:28] El nino N1235 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:28] El nino N1500 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:28] El nino N1033 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:28] Nino N1476 resiste el ataque de D0003
+[2026-04-30 10:14:28] El Demogorgon D0003 se ha movido a Centro Comercial
+[2026-04-30 10:14:28] Demogorgon D0003 inicia ataque... Objetivo: N1079
+[2026-04-30 10:14:28] El nino N1471 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:28] El nino N1473 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:28] Nino N1050 resiste el ataque de D0002
+[2026-04-30 10:14:28] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:14:28] Demogorgon D0002 inicia ataque... Objetivo: N1496
+[2026-04-30 10:14:29] Evento: red mental de Vecna
+[2026-04-30 10:14:29] El nino N1436 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:29] El nino N1436 ha depositado sangre. Total: 92
+[2026-04-30 10:14:29] El nino N1493 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:29] Nino N1079 resiste el ataque de D0003
+[2026-04-30 10:14:29] Demogorgon D0003 inicia ataque... Objetivo: N1033
+[2026-04-30 10:14:29] El nino N0978 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:29] El nino N0978 ha depositado sangre. Total: 93
+[2026-04-30 10:14:29] El nino N1468 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:29] El nino N1468 ha depositado sangre. Total: 94
+[2026-04-30 10:14:29] El nino N0856 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:29] Nino N1494 resiste el ataque de D0000
+[2026-04-30 10:14:29] Demogorgon D0000 inicia ataque... Objetivo: N1494
+[2026-04-30 10:14:29] Demogorgon D0002 captura a N1496
+[2026-04-30 10:14:29] El nino N0765 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:29] El nino N0765 ha depositado sangre. Total: 95
+[2026-04-30 10:14:29] El nino N1499 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:29] El nino N1445 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:30] El nino N1470 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:30] El nino N0807 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:30] El nino N1170 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:30] El nino N1018 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:30] El nino N1483 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:30] El nino N1483 ha depositado sangre. Total: 96
+[2026-04-30 10:14:30] El nino N1102 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:30] Nino N1494 resiste el ataque de D0000
+[2026-04-30 10:14:30] Demogorgon D0000 inicia ataque... Objetivo: N1494
+[2026-04-30 10:14:30] El nino N0950 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:30] El demogorgon D0002 captura. Propias: 5 | Globales: 17
+[2026-04-30 10:14:30] Demogorgon D0002 inicia ataque... Objetivo: N1062
+[2026-04-30 10:14:30] El nino N1079 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:30] El nino N1079 ha depositado sangre. Total: 97
+[2026-04-30 10:14:30] Demogorgon D0003 captura a N1033
+[2026-04-30 10:14:31] El nino N1495 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:31] El nino N1488 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:31] Nino N1062 resiste el ataque de D0002
+[2026-04-30 10:14:31] El Demogorgon D0002 se ha movido a Bosque
+[2026-04-30 10:14:31] Demogorgon D0002 inicia ataque... Objetivo: N1488
+[2026-04-30 10:14:31] El nino N0760 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:31] El nino N1050 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:31] El nino N1050 ha depositado sangre. Total: 98
+[2026-04-30 10:14:31] El demogorgon D0003 captura. Propias: 1 | Globales: 18
+[2026-04-30 10:14:31] El Demogorgon D0003 se ha movido a Laboratorio
+[2026-04-30 10:14:31] Demogorgon D0003 inicia ataque... Objetivo: N1235
+[2026-04-30 10:14:31] El nino N0971 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:31] El nino N1436 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:31] El nino N1086 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:31] Nino N1494 resiste el ataque de D0000
+[2026-04-30 10:14:31] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:14:31] Demogorgon D0000 inicia ataque... Objetivo: N0760
+[2026-04-30 10:14:31] El nino N1468 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:32] Nino N1235 resiste el ataque de D0003
+[2026-04-30 10:14:32] Demogorgon D0003 inicia ataque... Objetivo: N1102
+[2026-04-30 10:14:32] El nino N1092 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:32] El nino N1474 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:32] El nino N0938 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:32] El nino N1281 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:32] El nino N1473 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:32] Nino N1488 resiste el ataque de D0002
+[2026-04-30 10:14:32] Demogorgon D0002 inicia ataque... Objetivo: N1474
+[2026-04-30 10:14:32] El nino N1062 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:32] El nino N1062 ha depositado sangre. Total: 99
+[2026-04-30 10:14:32] Nino N0760 resiste el ataque de D0000
+[2026-04-30 10:14:32] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:32] Demogorgon D0000 inicia ataque... Objetivo: N1488
+[2026-04-30 10:14:32] El nino N0978 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:33] Nino N1102 resiste el ataque de D0003
+[2026-04-30 10:14:33] El Demogorgon D0003 se ha movido a Bosque
+[2026-04-30 10:14:33] Demogorgon D0003 inicia ataque... Objetivo: N1170
+[2026-04-30 10:14:33] El nino N1457 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:33] El nino N0765 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:33] El nino N1476 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:33] El nino N1476 ha depositado sangre. Total: 100
+[2026-04-30 10:14:33] El nino N0482 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:33] Nino N1474 resiste el ataque de D0002
+[2026-04-30 10:14:33] Demogorgon D0002 inicia ataque... Objetivo: N1457
+[2026-04-30 10:14:33] El nino N0856 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:33] El nino N1494 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:33] El nino N1494 ha depositado sangre. Total: 101
+[2026-04-30 10:14:33] Nino N1488 resiste el ataque de D0000
+[2026-04-30 10:14:33] Demogorgon D0000 inicia ataque... Objetivo: N1474
+[2026-04-30 10:14:33] El nino N1499 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:33] Demogorgon D0003 captura a N1170
+[2026-04-30 10:14:33] El nino N1493 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:33] Demogorgon D0002 captura a N1457
+[2026-04-30 10:14:33] El nino N1079 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:34] El nino N0807 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:34] El nino N1483 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:34] El nino N1018 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:34] El nino N1482 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:34] El nino N1050 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:34] El nino N1235 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:34] El nino N1235 ha depositado sangre. Total: 102
+[2026-04-30 10:14:34] El nino N1477 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:34] El nino N1477 ha depositado sangre. Total: 103
+[2026-04-30 10:14:34] El nino N1168 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:34] El demogorgon D0003 captura. Propias: 2 | Globales: 19
+[2026-04-30 10:14:34] El Demogorgon D0003 se ha movido a Laboratorio
+[2026-04-30 10:14:34] Demogorgon D0003 inicia ataque... Objetivo: N0760
+[2026-04-30 10:14:34] Nino N1474 resiste el ataque de D0000
+[2026-04-30 10:14:34] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:14:34] Demogorgon D0000 inicia ataque... Objetivo: N1281
+[2026-04-30 10:14:34] El demogorgon D0002 captura. Propias: 6 | Globales: 20
+[2026-04-30 10:14:34] El Demogorgon D0002 se ha movido a Laboratorio
+[2026-04-30 10:14:34] Demogorgon D0002 inicia ataque... Objetivo: N0482
+[2026-04-30 10:14:35] El nino N1062 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:35] El nino N1385 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:35] El nino N1468 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:35] Nino N0760 resiste el ataque de D0003
+[2026-04-30 10:14:35] El Demogorgon D0003 se ha movido a Bosque
+[2026-04-30 10:14:35] Demogorgon D0003 inicia ataque... Objetivo: N1482
+[2026-04-30 10:14:35] El nino N1481 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:35] El nino N1260 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:35] El nino N1451 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:35] Fin del evento: red mental de Vecna
+[2026-04-30 10:14:35] Demogorgon D0000 captura a N1281
+[2026-04-30 10:14:35] Nino N0482 resiste el ataque de D0002
+[2026-04-30 10:14:35] El Demogorgon D0002 se ha movido a Bosque
+[2026-04-30 10:14:35] Demogorgon D0002 inicia ataque... Objetivo: N1474
+[2026-04-30 10:14:35] El nino N1494 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:36] El nino N1092 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:36] El nino N1488 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:36] El nino N1488 ha depositado sangre. Total: 104
+[2026-04-30 10:14:36] El nino N1102 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:36] El nino N1102 ha depositado sangre. Total: 105
+[2026-04-30 10:14:36] El nino N1448 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:36] Nino N1482 resiste el ataque de D0003
+[2026-04-30 10:14:36] El Demogorgon D0003 se ha movido a Laboratorio
+[2026-04-30 10:14:36] Demogorgon D0003 inicia ataque... Objetivo: N1481
+[2026-04-30 10:14:36] El demogorgon D0000 captura. Propias: 13 | Globales: 21
+[2026-04-30 10:14:36] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:14:36] Demogorgon D0000 inicia ataque... Objetivo: N1448
+[2026-04-30 10:14:36] El nino N1393 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:36] El nino N0765 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:36] El nino N1436 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:36] El nino N1476 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:36] El nino N1235 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:36] Nino N1474 resiste el ataque de D0002
+[2026-04-30 10:14:36] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:14:36] Demogorgon D0002 inicia ataque... Objetivo: N1451
+[2026-04-30 10:14:37] El nino N0978 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:37] Demogorgon D0003 captura a N1481
+[2026-04-30 10:14:37] El nino N1445 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:37] Nino N1448 resiste el ataque de D0000
+[2026-04-30 10:14:37] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:37] Demogorgon D0000 inicia ataque... Objetivo: N1385
+[2026-04-30 10:14:37] El nino N0760 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:37] El nino N0760 ha depositado sangre. Total: 106
+[2026-04-30 10:14:37] El nino N1429 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:37] El nino N0971 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:37] El nino N0971 ha depositado sangre. Total: 107
+[2026-04-30 10:14:37] Nino N1451 resiste el ataque de D0002
+[2026-04-30 10:14:37] El Demogorgon D0002 se ha movido a Laboratorio
+[2026-04-30 10:14:37] Demogorgon D0002 inicia ataque... Objetivo: N0482
+[2026-04-30 10:14:37] El demogorgon D0003 captura. Propias: 3 | Globales: 22
+[2026-04-30 10:14:37] El Demogorgon D0003 se ha movido a Alcantarillado
+[2026-04-30 10:14:37] Demogorgon D0003 inicia ataque... Objetivo: N1260
+[2026-04-30 10:14:37] El nino N1477 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:37] El nino N1079 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:38] Nino N1385 resiste el ataque de D0000
+[2026-04-30 10:14:38] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:14:38] El nino N1474 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:38] El nino N1474 ha depositado sangre. Total: 108
+[2026-04-30 10:14:38] El nino N1490 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:38] El nino N0938 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:38] El nino N0938 ha depositado sangre. Total: 109
+[2026-04-30 10:14:38] El nino N1483 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:38] El nino N1478 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:38] El nino N1488 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:38] Demogorgon D0003 captura a N1260
+[2026-04-30 10:14:39] Nino N0482 resiste el ataque de D0002
+[2026-04-30 10:14:39] El Demogorgon D0002 se ha movido a Alcantarillado
+[2026-04-30 10:14:39] Demogorgon D0002 inicia ataque... Objetivo: N1429
+[2026-04-30 10:14:39] El nino N1050 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:39] El nino N1499 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:39] El nino N1500 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:39] El nino N1495 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:39] El nino N1102 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:39] El nino N1446 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:39] El demogorgon D0003 captura. Propias: 4 | Globales: 23
+[2026-04-30 10:14:39] El Demogorgon D0003 se ha movido a Bosque
+[2026-04-30 10:14:39] Demogorgon D0003 inicia ataque... Objetivo: N1445
+[2026-04-30 10:14:39] El nino N1062 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:39] El nino N0971 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:40] Demogorgon D0002 captura a N1429
+[2026-04-30 10:14:40] El nino N1235 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:40] El nino N1482 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:40] El nino N1482 ha depositado sangre. Total: 110
+[2026-04-30 10:14:40] El nino N1476 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:40] El nino N1092 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:40] El nino N0482 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:40] El nino N0482 ha depositado sangre. Total: 111
+[2026-04-30 10:14:40] Demogorgon D0003 captura a N1445
+[2026-04-30 10:14:40] El nino N1168 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:40] El nino N1168 ha depositado sangre. Total: 112
+[2026-04-30 10:14:40] El demogorgon D0002 captura. Propias: 7 | Globales: 24
+[2026-04-30 10:14:40] VECNA crea nuevo Demogorgon: D0004 (total: 4)
+[2026-04-30 10:14:40] El Demogorgon D0002 se ha movido a Laboratorio
+[2026-04-30 10:14:40] Demogorgon D0002 inicia ataque... Objetivo: N1495
+[2026-04-30 10:14:40] El Demogorgon D0004 se ha movido a Laboratorio
+[2026-04-30 10:14:40] Demogorgon D0004 inicia ataque... Objetivo: N1490
+[2026-04-30 10:14:40] El nino N0938 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:40] El nino N1494 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:40] El nino N0760 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:41] El nino N1385 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:41] El nino N1385 ha depositado sangre. Total: 113
+[2026-04-30 10:14:41] El nino N1464 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:41] El nino N1448 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:41] El nino N1448 ha depositado sangre. Total: 114
+[2026-04-30 10:14:41] Nino N1495 resiste el ataque de D0002
+[2026-04-30 10:14:41] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:14:41] Demogorgon D0002 inicia ataque... Objetivo: N1478
+[2026-04-30 10:14:41] El nino N1474 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:41] El demogorgon D0003 captura. Propias: 5 | Globales: 25
+[2026-04-30 10:14:41] El Demogorgon D0003 se ha movido a Laboratorio
+[2026-04-30 10:14:41] Demogorgon D0003 inicia ataque... Objetivo: N1464
+[2026-04-30 10:14:41] El nino N1451 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:41] El nino N1451 ha depositado sangre. Total: 115
+[2026-04-30 10:14:41] Nino N1490 resiste el ataque de D0004
+[2026-04-30 10:14:41] El Demogorgon D0004 se ha movido a Bosque
+[2026-04-30 10:14:41] Demogorgon D0004 inicia ataque... Objetivo: N1499
+[2026-04-30 10:14:42] El nino N0856 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:42] El nino N1484 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:42] El nino N0807 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:42] Nino N1499 resiste el ataque de D0004
+[2026-04-30 10:14:42] El Demogorgon D0004 se ha movido a Centro Comercial
+[2026-04-30 10:14:42] Demogorgon D0004 inicia ataque... Objetivo: N1446
+[2026-04-30 10:14:42] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:14:42] El nino N1393 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:42] El nino N1393 ha depositado sangre. Total: 116
+[2026-04-30 10:14:42] El nino N0482 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:42] Demogorgon D0002 captura a N1478
+[2026-04-30 10:14:42] Nino N1464 resiste el ataque de D0003
+[2026-04-30 10:14:42] El Demogorgon D0003 se ha movido a Bosque
+[2026-04-30 10:14:42] Demogorgon D0003 inicia ataque... Objetivo: N0856
+[2026-04-30 10:14:42] El nino N1477 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:42] El nino N1102 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:43] Nino N1446 resiste el ataque de D0004
+[2026-04-30 10:14:43] El Demogorgon D0004 se ha movido a Bosque
+[2026-04-30 10:14:43] Demogorgon D0004 inicia ataque... Objetivo: N1499
+[2026-04-30 10:14:43] El nino N1483 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:43] El nino N1482 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:43] El nino N1468 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:43] El nino N1490 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:43] El nino N1490 ha depositado sangre. Total: 117
+[2026-04-30 10:14:43] El demogorgon D0002 captura. Propias: 8 | Globales: 26
+[2026-04-30 10:14:43] El Demogorgon D0002 se ha movido a Laboratorio
+[2026-04-30 10:14:43] Demogorgon D0002 inicia ataque... Objetivo: N1484
+[2026-04-30 10:14:43] El nino N1168 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:43] El nino N1488 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:43] El nino N1461 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:43] El nino N1451 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:44] Nino N0856 resiste el ataque de D0003
+[2026-04-30 10:14:44] El Demogorgon D0003 se ha movido a Alcantarillado
+[2026-04-30 10:14:44] Demogorgon D0003 inicia ataque... Objetivo: N0807
+[2026-04-30 10:14:44] El nino N1473 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:44] El nino N0971 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:44] El nino N1500 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:44] El nino N1500 ha depositado sangre. Total: 118
+[2026-04-30 10:14:44] El nino N1495 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:44] El nino N1495 ha depositado sangre. Total: 119
+[2026-04-30 10:14:44] Nino N1484 resiste el ataque de D0002
+[2026-04-30 10:14:44] El Demogorgon D0002 se ha movido a Alcantarillado
+[2026-04-30 10:14:44] Demogorgon D0002 inicia ataque... Objetivo: N1092
+[2026-04-30 10:14:44] Demogorgon D0004 captura a N1499
+[2026-04-30 10:14:44] El nino N1133 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:44] El nino N1385 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:44] El nino N1393 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:45] El nino N0760 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:45] El demogorgon D0004 captura. Propias: 1 | Globales: 27
+[2026-04-30 10:14:45] El Demogorgon D0004 se ha movido a Laboratorio
+[2026-04-30 10:14:45] Demogorgon D0004 inicia ataque... Objetivo: N1484
+[2026-04-30 10:14:45] El nino N0938 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:45] El nino N1448 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:45] Demogorgon D0003 captura a N0807
+[2026-04-30 10:14:45] El nino N1050 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:45] El nino N1235 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:45] El nino N1470 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:45] El nino N1474 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:45] El nino N1446 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:45] El nino N1446 ha depositado sangre. Total: 120
+[2026-04-30 10:14:45] El nino N1490 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:45] El demogorgon D0003 captura. Propias: 6 | Globales: 28
+[2026-04-30 10:14:45] El Demogorgon D0003 se ha movido a Bosque
+[2026-04-30 10:14:45] Demogorgon D0003 inicia ataque... Objetivo: N1483
+[2026-04-30 10:14:45] Demogorgon D0002 captura a N1092
+[2026-04-30 10:14:45] Nino N1484 resiste el ataque de D0004
+[2026-04-30 10:14:45] El Demogorgon D0004 se ha movido a Bosque
+[2026-04-30 10:14:45] Demogorgon D0004 inicia ataque... Objetivo: N1473
+[2026-04-30 10:14:46] El nino N1497 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:46] El nino N1476 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:46] El nino N1464 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:46] El nino N1464 ha depositado sangre. Total: 121
+[2026-04-30 10:14:46] Nino N1483 resiste el ataque de D0003
+[2026-04-30 10:14:46] El Demogorgon D0003 se ha movido a Centro Comercial
+[2026-04-30 10:14:46] Demogorgon D0003 inicia ataque... Objetivo: N1461
+[2026-04-30 10:14:46] El demogorgon D0002 captura. Propias: 9 | Globales: 29
+[2026-04-30 10:14:46] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:14:46] Demogorgon D0002 inicia ataque... Objetivo: N1133
+[2026-04-30 10:14:46] El nino N1452 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:46] El nino N1482 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:46] El nino N1168 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:46] Nino N1473 resiste el ataque de D0004
+[2026-04-30 10:14:46] El Demogorgon D0004 se ha movido a Laboratorio
+[2026-04-30 10:14:46] Demogorgon D0004 inicia ataque... Objetivo: N1484
+[2026-04-30 10:14:47] El nino N0482 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:47] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:14:47] Demogorgon D0000 inicia ataque... Objetivo: N1468
+[2026-04-30 10:14:47] El nino N0856 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:47] El nino N0856 ha depositado sangre. Total: 122
+[2026-04-30 10:14:47] El nino N1469 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:47] El nino N1475 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:47] El nino N1500 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:47] El nino N1435 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:47] El nino N1451 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:47] Demogorgon D0002 captura a N1133
+[2026-04-30 10:14:47] Demogorgon D0003 captura a N1461
+[2026-04-30 10:14:47] El nino N1495 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:48] Nino N1468 resiste el ataque de D0000
+[2026-04-30 10:14:48] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:48] Demogorgon D0000 inicia ataque... Objetivo: N1050
+[2026-04-30 10:14:48] Nino N1484 resiste el ataque de D0004
+[2026-04-30 10:14:48] El Demogorgon D0004 se ha movido a Bosque
+[2026-04-30 10:14:48] Demogorgon D0004 inicia ataque... Objetivo: N1497
+[2026-04-30 10:14:48] El nino N1446 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:48] El nino N0765 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:48] El nino N1443 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:48] El nino N1488 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:48] El nino N1385 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:48] El nino N0950 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:48] El demogorgon D0002 captura. Propias: 10 | Globales: 30
+[2026-04-30 10:14:48] El Demogorgon D0002 se ha movido a Laboratorio
+[2026-04-30 10:14:48] Demogorgon D0002 inicia ataque... Objetivo: N1475
+[2026-04-30 10:14:48] El demogorgon D0003 captura. Propias: 7 | Globales: 31
+[2026-04-30 10:14:48] El Demogorgon D0003 se ha movido a Bosque
+[2026-04-30 10:14:48] Demogorgon D0003 inicia ataque... Objetivo: N0765
+[2026-04-30 10:14:48] Nino N1050 resiste el ataque de D0000
+[2026-04-30 10:14:48] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:14:48] Demogorgon D0000 inicia ataque... Objetivo: N1469
+[2026-04-30 10:14:49] El nino N1393 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:49] Nino N1497 resiste el ataque de D0004
+[2026-04-30 10:14:49] El Demogorgon D0004 se ha movido a Centro Comercial
+[2026-04-30 10:14:49] Demogorgon D0004 inicia ataque... Objetivo: N1452
+[2026-04-30 10:14:49] El nino N1483 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:49] El nino N1483 ha depositado sangre. Total: 123
+[2026-04-30 10:14:49] El nino N1484 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:49] El nino N1484 ha depositado sangre. Total: 124
+[2026-04-30 10:14:49] El nino N1468 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:49] El nino N1468 ha depositado sangre. Total: 125
+[2026-04-30 10:14:49] El nino N1448 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:49] Nino N0765 resiste el ataque de D0003
+[2026-04-30 10:14:49] El Demogorgon D0003 se ha movido a Laboratorio
+[2026-04-30 10:14:49] Demogorgon D0003 inicia ataque... Objetivo: N1443
+[2026-04-30 10:14:49] Nino N1475 resiste el ataque de D0002
+[2026-04-30 10:14:49] El Demogorgon D0002 se ha movido a Bosque
+[2026-04-30 10:14:49] Demogorgon D0002 inicia ataque... Objetivo: N0765
+[2026-04-30 10:14:49] Demogorgon D0000 captura a N1469
+[2026-04-30 10:14:49] El nino N1454 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:49] El nino N1464 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:49] El nino N1490 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:50] Nino N1443 resiste el ataque de D0003
+[2026-04-30 10:14:50] El Demogorgon D0003 se ha movido a Alcantarillado
+[2026-04-30 10:14:50] Demogorgon D0003 inicia ataque... Objetivo: N1488
+[2026-04-30 10:14:50] Demogorgon D0004 captura a N1452
+[2026-04-30 10:14:50] El nino N1050 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:50] El nino N1050 ha depositado sangre. Total: 126
+[2026-04-30 10:14:50] El demogorgon D0000 captura. Propias: 14 | Globales: 32
+[2026-04-30 10:14:50] VECNA crea nuevo Demogorgon: D0005 (total: 5)
+[2026-04-30 10:14:50] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:50] Demogorgon D0000 inicia ataque... Objetivo: N1497
+[2026-04-30 10:14:50] El Demogorgon D0005 se ha movido a Centro Comercial
+[2026-04-30 10:14:50] Demogorgon D0005 inicia ataque... Objetivo: N1435
+[2026-04-30 10:14:50] El nino N1470 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:50] El nino N1470 ha depositado sangre. Total: 127
+[2026-04-30 10:14:50] El nino N1466 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:50] El nino N1500 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:50] El nino N0856 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:50] El nino N1472 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:50] El demogorgon D0004 captura. Propias: 2 | Globales: 33
+[2026-04-30 10:14:50] El Demogorgon D0004 se ha movido a Alcantarillado
+[2026-04-30 10:14:50] Demogorgon D0004 inicia ataque... Objetivo: N1466
+[2026-04-30 10:14:50] Demogorgon D0002 captura a N0765
+[2026-04-30 10:14:50] Demogorgon D0005 captura a N1435
+[2026-04-30 10:14:51] Nino N1488 resiste el ataque de D0003
+[2026-04-30 10:14:51] El Demogorgon D0003 se ha movido a Centro Comercial
+[2026-04-30 10:14:51] Demogorgon D0003 inicia ataque... Objetivo: N1472
+[2026-04-30 10:14:51] El nino N1473 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:51] El nino N1473 ha depositado sangre. Total: 128
+[2026-04-30 10:14:51] El nino N1235 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:51] El nino N1235 ha depositado sangre. Total: 129
+[2026-04-30 10:14:51] El nino N1477 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:51] El demogorgon D0002 captura. Propias: 11 | Globales: 34
+[2026-04-30 10:14:51] El Demogorgon D0002 se ha movido a Laboratorio
+[2026-04-30 10:14:51] Demogorgon D0002 inicia ataque... Objetivo: N1477
+[2026-04-30 10:14:51] El nino N1482 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:51] Demogorgon D0000 captura a N1497
+[2026-04-30 10:14:51] Demogorgon D0003 captura a N1472
+[2026-04-30 10:14:51] El demogorgon D0005 captura. Propias: 1 | Globales: 35
+[2026-04-30 10:14:51] El Demogorgon D0005 se ha movido a Bosque
+[2026-04-30 10:14:51] El nino N1483 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:51] El nino N1495 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:51] Nino N1466 resiste el ataque de D0004
+[2026-04-30 10:14:51] El Demogorgon D0004 se ha movido a Bosque
+[2026-04-30 10:14:51] El nino N1446 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:52] Nino N1477 resiste el ataque de D0002
+[2026-04-30 10:14:52] El Demogorgon D0002 se ha movido a Bosque
+[2026-04-30 10:14:52] El nino N1494 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:52] El nino N1475 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:52] El nino N1475 ha depositado sangre. Total: 130
+[2026-04-30 10:14:52] El nino N1476 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:52] El nino N1476 ha depositado sangre. Total: 131
+[2026-04-30 10:14:52] El demogorgon D0000 captura. Propias: 15 | Globales: 36
+[2026-04-30 10:14:52] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:14:52] Demogorgon D0000 inicia ataque... Objetivo: N1466
+[2026-04-30 10:14:52] El nino N1468 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:52] El demogorgon D0003 captura. Propias: 8 | Globales: 37
+[2026-04-30 10:14:52] El Demogorgon D0003 se ha movido a Alcantarillado
+[2026-04-30 10:14:52] El nino N1489 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:52] El nino N1484 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:53] El nino N0760 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:53] El nino N1443 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:53] El nino N1443 ha depositado sangre. Total: 132
+[2026-04-30 10:14:53] El nino N1488 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:53] El nino N1488 ha depositado sangre. Total: 133
+[2026-04-30 10:14:53] El nino N1102 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:53] El nino N1473 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:53] Nino N1466 resiste el ataque de D0000
+[2026-04-30 10:14:53] El Demogorgon D0000 se ha movido a Bosque
+[2026-04-30 10:14:53] Demogorgon D0000 inicia ataque... Objetivo: N1494
+[2026-04-30 10:14:53] El nino N1050 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:54] El nino N1470 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:54] El nino N1448 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:54] El nino N1168 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:54] El nino N1450 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:54] El nino N1464 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:54] El nino N0950 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:54] El nino N0950 ha depositado sangre. Total: 134
+[2026-04-30 10:14:54] Nino N1494 resiste el ataque de D0000
+[2026-04-30 10:14:54] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:14:54] Demogorgon D0000 inicia ataque... Objetivo: N1102
+[2026-04-30 10:14:54] El nino N1483 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:54] El nino N1235 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:55] Nino N1102 resiste el ataque de D0000
+[2026-04-30 10:14:55] El Demogorgon D0000 se ha movido a Alcantarillado
+[2026-04-30 10:14:55] Demogorgon D0000 inicia ataque... Objetivo: N1450
+[2026-04-30 10:14:55] El nino N1393 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:55] El nino N1493 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:55] El nino N1466 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:55] El nino N1466 ha depositado sangre. Total: 135
+[2026-04-30 10:14:55] El nino N0856 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:55] El nino N1475 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:55] El nino N1454 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:55] El nino N1454 ha depositado sangre. Total: 136
+[2026-04-30 10:14:55] El nino N1488 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:55] El nino N1476 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:55] Nino N1450 resiste el ataque de D0000
+[2026-04-30 10:14:55] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:14:55] Demogorgon D0000 inicia ataque... Objetivo: N1493
+[2026-04-30 10:14:55] El Demogorgon D0005 se ha movido a Alcantarillado
+[2026-04-30 10:14:55] Demogorgon D0005 inicia ataque... Objetivo: N1450
+[2026-04-30 10:14:56] El nino N1500 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:56] El nino N1484 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:56] El nino N1477 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:56] El nino N1477 ha depositado sangre. Total: 137
+[2026-04-30 10:14:56] El nino N1442 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:56] El Demogorgon D0002 se ha movido a Alcantarillado
+[2026-04-30 10:14:56] Demogorgon D0002 inicia ataque... Objetivo: N1442
+[2026-04-30 10:14:56] El nino N1443 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:56] El nino N1482 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:56] El nino N1482 ha depositado sangre. Total: 138
+[2026-04-30 10:14:56] El nino N1468 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:56] El Demogorgon D0004 se ha movido a Centro Comercial
+[2026-04-30 10:14:56] Demogorgon D0004 inicia ataque... Objetivo: N1102
+[2026-04-30 10:14:56] El nino N0950 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:56] Nino N1493 resiste el ataque de D0000
+[2026-04-30 10:14:56] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:14:56] Nino N1450 resiste el ataque de D0005
+[2026-04-30 10:14:56] El Demogorgon D0005 se ha movido a Bosque
+[2026-04-30 10:14:56] Demogorgon D0005 inicia ataque... Objetivo: N1393
+[2026-04-30 10:14:57] El Demogorgon D0003 se ha movido a Bosque
+[2026-04-30 10:14:57] Demogorgon D0003 inicia ataque... Objetivo: N1448
+[2026-04-30 10:14:57] El nino N1494 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:57] El nino N1494 ha depositado sangre. Total: 139
+[2026-04-30 10:14:57] El nino N0482 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:57] El nino N1462 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:57] El nino N1470 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:57] Nino N1442 resiste el ataque de D0002
+[2026-04-30 10:14:57] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:14:57] El nino N1489 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:57] El nino N1489 ha depositado sangre. Total: 140
+[2026-04-30 10:14:57] Demogorgon D0004 captura a N1102
+[2026-04-30 10:14:57] El nino N1466 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:57] El nino N1454 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:57] El nino N1050 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:58] El nino N1473 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:58] Nino N1393 resiste el ataque de D0005
+[2026-04-30 10:14:58] El Demogorgon D0005 se ha movido a Alcantarillado
+[2026-04-30 10:14:58] Demogorgon D0005 inicia ataque... Objetivo: N1442
+[2026-04-30 10:14:58] Nino N1448 resiste el ataque de D0003
+[2026-04-30 10:14:58] El Demogorgon D0003 se ha movido a Alcantarillado
+[2026-04-30 10:14:58] Demogorgon D0003 inicia ataque... Objetivo: N1462
+[2026-04-30 10:14:58] El nino N0938 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:14:58] El nino N1385 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:58] El nino N1483 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:58] El demogorgon D0004 captura. Propias: 3 | Globales: 38
+[2026-04-30 10:14:58] El Demogorgon D0004 se ha movido a Laboratorio
+[2026-04-30 10:14:58] Demogorgon D0004 inicia ataque... Objetivo: N1385
+[2026-04-30 10:14:58] El nino N1437 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:58] El nino N1477 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:58] Nino N1442 resiste el ataque de D0005
+[2026-04-30 10:14:58] El Demogorgon D0005 se ha movido a Laboratorio
+[2026-04-30 10:14:58] Demogorgon D0005 inicia ataque... Objetivo: N0482
+[2026-04-30 10:14:59] El nino N1235 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:59] Demogorgon D0003 captura a N1462
+[2026-04-30 10:14:59] El nino N1488 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:59] El nino N0760 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:14:59] El nino N0760 ha depositado sangre. Total: 141
+[2026-04-30 10:14:59] El nino N1476 se ha movido hacia el sotano Byers
+[2026-04-30 10:14:59] El nino N1474 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:14:59] El nino N1453 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:14:59] Nino N1385 resiste el ataque de D0004
+[2026-04-30 10:14:59] El Demogorgon D0004 se ha movido a Bosque
+[2026-04-30 10:14:59] Demogorgon D0004 inicia ataque... Objetivo: N1393
+[2026-04-30 10:14:59] El demogorgon D0003 captura. Propias: 9 | Globales: 39
+[2026-04-30 10:14:59] El Demogorgon D0003 se ha movido a Laboratorio
+[2026-04-30 10:14:59] Demogorgon D0003 inicia ataque... Objetivo: N1385
+[2026-04-30 10:14:59] El nino N1482 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:14:59] Nino N0482 resiste el ataque de D0005
+[2026-04-30 10:14:59] El Demogorgon D0005 se ha movido a Centro Comercial
+[2026-04-30 10:14:59] Demogorgon D0005 inicia ataque... Objetivo: N1437
+[2026-04-30 10:14:59] El nino N1018 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:14:59] El nino N1475 se ha movido hacia el sotano Byers
+[2026-04-30 10:15:00] Nino N1385 resiste el ataque de D0003
+[2026-04-30 10:15:00] El Demogorgon D0003 se ha movido a Centro Comercial
+[2026-04-30 10:15:00] Demogorgon D0003 inicia ataque... Objetivo: N1018
+[2026-04-30 10:15:00] El nino N1448 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:15:00] El nino N1448 ha depositado sangre. Total: 142
+[2026-04-30 10:15:00] El nino N0950 se ha movido hacia el sotano Byers
+[2026-04-30 10:15:00] El nino N1493 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:15:00] El nino N1493 ha depositado sangre. Total: 143
+[2026-04-30 10:15:00] El nino N1450 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:15:00] El nino N1450 ha depositado sangre. Total: 144
+[2026-04-30 10:15:00] El nino N1443 se ha movido hacia el sotano Byers
+[2026-04-30 10:15:00] El nino N1418 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:15:00] Demogorgon D0004 captura a N1393
+[2026-04-30 10:15:00] El nino N1494 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:15:01] Demogorgon D0005 captura a N1437
+[2026-04-30 10:15:01] El nino N1489 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:15:01] El nino N1500 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:15:01] El nino N1500 ha depositado sangre. Total: 145
+[2026-04-30 10:15:01] El nino N1464 ha cruzado el portal hacia el Alcantarillado
+[2026-04-30 10:15:01] El nino N1168 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:15:01] El nino N1168 ha depositado sangre. Total: 146
+[2026-04-30 10:15:01] El nino N0760 se ha movido hacia la calle principal a deambular
+[2026-04-30 10:15:01] El demogorgon D0004 captura. Propias: 4 | Globales: 40
+[2026-04-30 10:15:01] VECNA crea nuevo Demogorgon: D0006 (total: 6)
+[2026-04-30 10:15:01] El Demogorgon D0006 se ha movido a Laboratorio
+[2026-04-30 10:15:01] Demogorgon D0006 inicia ataque... Objetivo: N1474
+[2026-04-30 10:15:01] El Demogorgon D0004 se ha movido a Alcantarillado
+[2026-04-30 10:15:01] Demogorgon D0004 inicia ataque... Objetivo: N1483
+[2026-04-30 10:15:01] Nino N1018 resiste el ataque de D0003
+[2026-04-30 10:15:01] El Demogorgon D0003 se ha movido a Bosque
+[2026-04-30 10:15:01] Demogorgon D0003 inicia ataque... Objetivo: N0938
+[2026-04-30 10:15:01] El Demogorgon D0000 se ha movido a Laboratorio
+[2026-04-30 10:15:01] Demogorgon D0000 inicia ataque... Objetivo: N1385
+[2026-04-30 10:15:01] El Demogorgon D0002 se ha movido a Alcantarillado
+[2026-04-30 10:15:01] Demogorgon D0002 inicia ataque... Objetivo: N1453
+[2026-04-30 10:15:01] El nino N1451 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:15:01] El demogorgon D0005 captura. Propias: 2 | Globales: 41
+[2026-04-30 10:15:01] El Demogorgon D0005 se ha movido a Bosque
+[2026-04-30 10:15:02] El nino N1466 se ha movido hacia el sotano Byers
+[2026-04-30 10:15:02] Demogorgon D0003 captura a N0938
+[2026-04-30 10:15:02] El nino N1454 se ha movido hacia el sotano Byers
+[2026-04-30 10:15:02] El nino N0978 ha cruzado el portal hacia el Bosque
+[2026-04-30 10:15:02] El nino N1442 ha cruzado el portal de vuelta y va a Radio WSQK
+[2026-04-30 10:15:02] El nino N1442 ha depositado sangre. Total: 147
+[2026-04-30 10:15:02] El nino N1417 ha cruzado el portal hacia el Laboratorio
+[2026-04-30 10:15:02] Nino N1385 resiste el ataque de D0000
+[2026-04-30 10:15:02] El Demogorgon D0000 se ha movido a Centro Comercial
+[2026-04-30 10:15:02] Demogorgon D0000 inicia ataque... Objetivo: N1451
+[2026-04-30 10:15:02] El nino N1439 ha cruzado el portal hacia el Centro Comercial
+[2026-04-30 10:15:02] El demogorgon D0003 captura. Propias: 10 | Globales: 42
+[2026-04-30 10:15:02] El Demogorgon D0003 se ha movido a Alcantarillado
+[2026-04-30 10:15:02] Demogorgon D0003 inicia ataque... Objetivo: N1464
+[2026-04-30 10:15:02] Nino N1483 resiste el ataque de D0004
+[2026-04-30 10:15:02] El Demogorgon D0004 se ha movido a Centro Comercial
+[2026-04-30 10:15:02] Demogorgon D0004 inicia ataque... Objetivo: N1018
+[2026-04-30 10:15:02] Nino N1453 resiste el ataque de D0002
+[2026-04-30 10:15:02] El Demogorgon D0002 se ha movido a Centro Comercial
+[2026-04-30 10:15:02] Demogorgon D0002 inicia ataque... Objetivo: N1418
+[2026-04-30 10:15:02] Demogorgon D0006 captura a N1474
