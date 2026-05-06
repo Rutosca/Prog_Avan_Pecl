@@ -4,6 +4,7 @@
 
 package com.mycompany.pl_pr_az;
 
+import Grafica.Ventan;
 import Recursos.Portal;
 import Recursos.Zonas;
 import hilos_y_control.Demogorgon;
@@ -16,6 +17,7 @@ import hilos_y_control.Nino;
  */
 public class PL_PR_AZ {
 
+
     public static void main(String[] args) {
         Zonas zonanio=new Zonas();
         Portal[] nexo=new Portal[4];//se crean los protales, pero vacíos
@@ -24,6 +26,9 @@ public class PL_PR_AZ {
         nexo[1]=new Portal(3);
         nexo[2]=new Portal(4);
         nexo[3]=new Portal(2);
+        
+        Ventan ventana = new Ventan(zonanio, nexo);
+        ventana.setVisible(true);
         //demogorgon alpha
         Demogorgon alpha = new Demogorgon(0, zonanio);
         Demogorgon.registrarDemogorgonInicial(); // registra el alpha en el contador global

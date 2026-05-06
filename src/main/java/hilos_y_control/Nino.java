@@ -35,7 +35,7 @@ public class Nino extends Thread {
                 sleep(randomEntre(1000, 2000));
                 //elige portal
                 int destino = randomEntre(0, 4);
-                portales[destino].cruzarAZona();
+                portales[destino].cruzarAZona(id);//(permiso)
                 //entra al portal (ha pasado el permiso)
                 zonas.cambiarBaseZona(id, destino);
                 
@@ -58,7 +58,7 @@ public class Nino extends Thread {
 
                 
                 //vuelve a radio
-                portales[destino].cruzarABase();//(permiso)
+                portales[destino].cruzarABase(id);//(permiso)
                 zonas.cambiarZonaBase(id);//(pase)
                 zonas.depositarSangre(id);//deja sangre
                 sleep(randomEntre(2000, 4000));
