@@ -254,4 +254,35 @@ public class Zonas {
         }
         return zonaDestino;
     }
+    
+    //getters para la interfaz
+    //extrae los datos sin interferir en la concurrencia
+
+    public synchronized String getCallePrincipalTexto() {
+        return String.join(", ", callePrincipal);
+    }
+
+    public synchronized String getSotanoByersTexto() {
+        return String.join(", ", sotanoByers);
+    }
+
+    public synchronized String getRadioWSQKTexto() {
+        return String.join(", ", radioWSQK);
+    }
+
+    public synchronized int getSangreDisponible() {
+        return sangreRecolectada;
+    }
+
+    public synchronized int getNinosEnColmena() {
+        return colmena.size();
+    }
+
+    public synchronized String getNinosEnZonaUpsideDown(int zona) {
+        return String.join(", ", listaZNinos.get(zona));
+    }
+
+    public synchronized String getDemosEnZonaUpsideDown(int zona) {
+        return String.join(", ", listaZDemos.get(zona));
+    }
 }
