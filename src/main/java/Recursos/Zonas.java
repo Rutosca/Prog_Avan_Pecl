@@ -35,6 +35,12 @@ public class Zonas {
     //para evitar condiciones de carrera, un List para "retener" a niños que hayan sido marcados como objetivo de ataque
     List<String> bajoAtaque=new ArrayList<>();
     
+    // Variables para el temporizador remoto (para contar lo que le queda a los eventos)
+    private String eventoActivo = "Sin evento activo";
+    private long finEventoMs = 0;
+    //el botón de pausa
+    private boolean pausaGlobal = false;
+    
     private final String[] nombreZonas = {"Bosque", "Laboratorio", "Centro Comercial", "Alcantarillado"};
     
     private boolean apagon=false;
@@ -157,7 +163,6 @@ public class Zonas {
         while (colmena.contains(idNino)) {
             wait(); 
         }
-
     }
     
     public synchronized int registrarCapturaFinalizada(String idDemo) {
@@ -215,6 +220,9 @@ public class Zonas {
             notifyAll(); //despierta demogorgons
         }
     }
+    public synchronized boolean elevenActiva() {
+        return eleven;
+    }
     // rescate niños
     public synchronized void rescateEleven() {
         // cálculo
@@ -255,7 +263,7 @@ public class Zonas {
         return zonaDestino;
     }
     
-    //getters para la interfaz
+    //getters para la interfaz------------..-------------------------------------------------------------
     //extrae los datos sin interferir en la concurrencia
 
     public synchronized String getCallePrincipalTexto() {
@@ -287,8 +295,35 @@ public class Zonas {
     }
     
     
-    //el botón de pausa
-    private boolean pausaGlobal = false;
+
+    public synchronized void registrarEventoGlobal(String nombre, long duracionMs) {
+        this.eventoActivo = nombre;
+        this.finEventoMs = duracionMs > 0 ? System.currentTimeMillis() + duracionMs : 0;
+    }
+
+    public synchronized String getNombreEvento() { 
+        return eventoActivo; 
+    }
+
+    public synchronized int getSegundosRestantesEvento() {
+        if (finEventoMs == 0) return 0;
+        long restante = finEventoMs - System.currentTimeMillis();
+        return restante > 0 ? (int)(restante / 1000) : 0;
+    }
+    
+    //tamaños de las listas para el RMI
+    public synchronized int getConteoHawkinsTotal() {
+        return callePrincipal.size() + sotanoByers.size() + radioWSQK.size();
+    }
+
+    public synchronized int getConteoNinosZona(int zona) {
+        return listaZNinos.get(zona).size();
+    }
+
+    public synchronized int getConteoDemosZona(int zona) {
+        return listaZDemos.get(zona).size();
+    }
+    
 
     public synchronized void botonPausa() {
         pausaGlobal = !pausaGlobal;

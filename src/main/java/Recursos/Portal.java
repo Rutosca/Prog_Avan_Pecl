@@ -107,5 +107,13 @@ public class Portal {
     public synchronized String getNinoCruzando() {
         return ninoCruzando;
     }
+    
+    public synchronized int getConteoTotalPortal() {
+        int total = esperandoIda.size() + esperandoVuelta.size();
+        if (ninoCruzando != null && !ninoCruzando.isEmpty()) {
+            total++;
+        }
+        return total;
+    }
 }
 

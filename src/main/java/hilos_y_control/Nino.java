@@ -30,22 +30,30 @@ public class Nino extends Thread {
     public void run(){
          while (true){
             try {
-                //comprobar pausa del boton
+                //comprobar pausa del boton (varias veces)
                 zonas.comprobarPausa();
                 //va al sótano
                 zonas.moverASotanoByers(id);
-                sleep(randomEntre(1000, 2000));
+                sleepConPausa(randomEntre(1000, 2000));
+                
+                //comprobar pausa del boton (varias veces)
+                zonas.comprobarPausa();
                 //elige portal
                 int destino = randomEntre(0, 4);
                 portales[destino].cruzarAZona(id);//(permiso)
                 //entra al portal (ha pasado el permiso)
                 zonas.cambiarBaseZona(id, destino);
                 
+                //comprobar pausa del boton (varias veces)
+                zonas.comprobarPausa();
                 int explorar = randomEntre(3000, 5000);
                 if (zonas.tormentaActiva()) {
                     explorar *= 2;
                 }
-                sleep(explorar);
+                sleepConPausa(explorar);
+                
+                //comprobar pausa del boton (varias veces)
+                zonas.comprobarPausa();
                 //verifica que un demogorgon no lo haya capturado
                 boolean libre = zonas.salirDeZona(id);
                 //si fue capturado, la función se encarga de llevarlo, no es necesario que lo haga el niño
@@ -54,18 +62,21 @@ public class Nino extends Thread {
                     // Capturado: espera en la colmena hasta que Eleven lo rescate
                     zonas.verificarEstadoCaptura(id);
                     // Eleven ya lo añadió a callePrincipal, solo deambula
-                    sleep(randomEntre(3000, 5000));
+                    sleepConPausa(randomEntre(3000, 5000));
                     continue;
                 }
 
-                
+                //comprobar pausa del boton (varias veces)
+                zonas.comprobarPausa();
                 //vuelve a radio
                 portales[destino].cruzarABase(id);//(permiso)
                 zonas.cambiarZonaBase(id);//(pase)
                 zonas.depositarSangre(id);//deja sangre
-                sleep(randomEntre(2000, 4000));
+                sleepConPausa(randomEntre(2000, 4000));
+                //comprobar pausa del boton (varias veces)
+                zonas.comprobarPausa();
                 zonas.moverACalle(id);//dentro del if para que solo los que NO han sido capturados lo ejecuten
-                sleep(randomEntre(3000, 5000)); // Deambular por la calle
+                sleepConPausa(randomEntre(3000, 5000)); // Deambular por la calle
                 
 
             } catch (InterruptedException | BrokenBarrierException e) {
@@ -76,6 +87,17 @@ public class Nino extends Thread {
 
     private int randomEntre(int min, int max) {
         return min + (int)(Math.random() * (max - min));
+    }
+    
+    //trocear los sleep para que el botón de pause funcione
+    private void sleepConPausa(int ms) throws InterruptedException {
+        int restante = ms;
+        while (restante > 0) {
+            zonas.comprobarPausa();
+            int trozo = Math.min(100, restante);
+            sleep(trozo);
+            restante -= trozo;
+        }
     }
 }
 

@@ -6,3 +6,5 @@ hilos_y_control\Nino.class
 Recursos\Proteccion.class
 com\mycompany\pl_pr_az\PL_PR_AZ.class
 Recursos\Zonas.class
+rmi\InfServicio.class
+rmi\Servicio.class

@@ -10,6 +10,7 @@ import Recursos.Zonas;
 import hilos_y_control.Demogorgon;
 import hilos_y_control.Eventos;
 import hilos_y_control.Nino;
+import rmi.Servicio;
 
 /**
  *
@@ -26,9 +27,19 @@ public class PL_PR_AZ {
         nexo[1]=new Portal(3);
         nexo[2]=new Portal(4);
         nexo[3]=new Portal(2);
-        
+        int[] datos={};
         Ventan ventana = new Ventan(zonanio, nexo);
         ventana.setVisible(true);
+        
+        //RMI
+        try {
+            java.rmi.registry.LocateRegistry.createRegistry(1099);
+                Servicio servicioRMI = new Servicio(zonanio, nexo);
+                java.rmi.Naming.rebind("rmi://localhost/Hawkins", servicioRMI);
+                System.out.println("Servidor RMI de Hawkins activo.");
+            } catch (Exception e) {
+                System.err.println("Error arrancando RMI: " + e.getMessage());
+            }
         //demogorgon alpha
         Demogorgon alpha = new Demogorgon(0, zonanio);
         Demogorgon.registrarDemogorgonInicial(); // registra el alpha en el contador global

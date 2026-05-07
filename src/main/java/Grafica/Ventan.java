@@ -37,10 +37,13 @@ public class Ventan extends javax.swing.JFrame {
 
         jSeparator1 = new javax.swing.JSeparator();
         jPanel3 = new javax.swing.JPanel();
+        jLabel1 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         txtCalle = new javax.swing.JTextArea();
+        jLabel2 = new javax.swing.JLabel();
         jScrollPane2 = new javax.swing.JScrollPane();
         txtByers = new javax.swing.JTextArea();
+        jLabel3 = new javax.swing.JLabel();
         jScrollPane3 = new javax.swing.JScrollPane();
         txtRadio = new javax.swing.JTextArea();
         labelSangre = new javax.swing.JLabel();
@@ -66,32 +69,39 @@ public class Ventan extends javax.swing.JFrame {
         jScrollPane12 = new javax.swing.JScrollPane();
         txtPalc2 = new javax.swing.JTextArea();
         jPanel1 = new javax.swing.JPanel();
+        jLabel4 = new javax.swing.JLabel();
         jScrollPane14 = new javax.swing.JScrollPane();
         txtZbosN = new javax.swing.JTextArea();
         jScrollPane15 = new javax.swing.JScrollPane();
         txtZbosD = new javax.swing.JTextArea();
-        jPanel4 = new javax.swing.JPanel();
+        jLabel5 = new javax.swing.JLabel();
         jScrollPane16 = new javax.swing.JScrollPane();
         txtZlabN = new javax.swing.JTextArea();
         jScrollPane11 = new javax.swing.JScrollPane();
         txtZlabD = new javax.swing.JTextArea();
-        labelColmena = new javax.swing.JLabel();
+        jLabel6 = new javax.swing.JLabel();
         jScrollPane20 = new javax.swing.JScrollPane();
         txtZcenN = new javax.swing.JTextArea();
         jScrollPane17 = new javax.swing.JScrollPane();
         txtZcenD = new javax.swing.JTextArea();
-        jPanel5 = new javax.swing.JPanel();
+        jLabel7 = new javax.swing.JLabel();
         jScrollPane18 = new javax.swing.JScrollPane();
         txtZalcN = new javax.swing.JTextArea();
         jScrollPane19 = new javax.swing.JScrollPane();
         txtZalcD = new javax.swing.JTextArea();
-        jPanel6 = new javax.swing.JPanel();
+        jPanel7 = new javax.swing.JPanel();
+        jLabel8 = new javax.swing.JLabel();
+        labelColmena = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        getContentPane().setLayout(new java.awt.GridLayout());
+        getContentPane().setLayout(new java.awt.GridLayout(1, 0));
 
         jPanel3.setBorder(javax.swing.BorderFactory.createMatteBorder(1, 1, 1, 3, new java.awt.Color(0, 0, 0)));
         jPanel3.setLayout(new java.awt.GridLayout(4, 4));
+
+        jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel1.setText("Calle Principal");
+        jPanel3.add(jLabel1);
 
         txtCalle.setColumns(20);
         txtCalle.setRows(5);
@@ -99,11 +109,19 @@ public class Ventan extends javax.swing.JFrame {
 
         jPanel3.add(jScrollPane1);
 
+        jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel2.setText("Sótano Byers");
+        jPanel3.add(jLabel2);
+
         txtByers.setColumns(20);
         txtByers.setRows(5);
         jScrollPane2.setViewportView(txtByers);
 
         jPanel3.add(jScrollPane2);
+
+        jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel3.setText("Radio WSQK");
+        jPanel3.add(jLabel3);
 
         txtRadio.setColumns(20);
         txtRadio.setRows(5);
@@ -111,6 +129,7 @@ public class Ventan extends javax.swing.JFrame {
 
         jPanel3.add(jScrollPane3);
 
+        labelSangre.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         labelSangre.setText("jLabel1");
         jPanel3.add(labelSangre);
 
@@ -187,7 +206,11 @@ public class Ventan extends javax.swing.JFrame {
         getContentPane().add(jPanel2);
 
         jPanel1.setBorder(javax.swing.BorderFactory.createMatteBorder(1, 3, 1, 1, new java.awt.Color(0, 0, 0)));
-        jPanel1.setLayout(new java.awt.GridLayout(4, 1));
+        jPanel1.setLayout(new java.awt.GridLayout(4, 3));
+
+        jLabel4.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel4.setText("Bosque");
+        jPanel1.add(jLabel4);
 
         txtZbosN.setColumns(20);
         txtZbosN.setRows(5);
@@ -201,18 +224,9 @@ public class Ventan extends javax.swing.JFrame {
 
         jPanel1.add(jScrollPane15);
 
-        javax.swing.GroupLayout jPanel4Layout = new javax.swing.GroupLayout(jPanel4);
-        jPanel4.setLayout(jPanel4Layout);
-        jPanel4Layout.setHorizontalGroup(
-            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 121, Short.MAX_VALUE)
-        );
-        jPanel4Layout.setVerticalGroup(
-            jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 118, Short.MAX_VALUE)
-        );
-
-        jPanel1.add(jPanel4);
+        jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel5.setText("Laboratorio");
+        jPanel1.add(jLabel5);
 
         txtZlabN.setColumns(20);
         txtZlabN.setRows(5);
@@ -226,9 +240,9 @@ public class Ventan extends javax.swing.JFrame {
 
         jPanel1.add(jScrollPane11);
 
-        labelColmena.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        labelColmena.setText("jLabel1");
-        jPanel1.add(labelColmena);
+        jLabel6.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel6.setText("Centro Comercial");
+        jPanel1.add(jLabel6);
 
         txtZcenN.setColumns(20);
         txtZcenN.setRows(5);
@@ -242,18 +256,9 @@ public class Ventan extends javax.swing.JFrame {
 
         jPanel1.add(jScrollPane17);
 
-        javax.swing.GroupLayout jPanel5Layout = new javax.swing.GroupLayout(jPanel5);
-        jPanel5.setLayout(jPanel5Layout);
-        jPanel5Layout.setHorizontalGroup(
-            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 121, Short.MAX_VALUE)
-        );
-        jPanel5Layout.setVerticalGroup(
-            jPanel5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 118, Short.MAX_VALUE)
-        );
-
-        jPanel1.add(jPanel5);
+        jLabel7.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel7.setText("Alcantarillado");
+        jPanel1.add(jLabel7);
 
         txtZalcN.setColumns(20);
         txtZalcN.setRows(5);
@@ -267,20 +272,19 @@ public class Ventan extends javax.swing.JFrame {
 
         jPanel1.add(jScrollPane19);
 
-        javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
-        jPanel6.setLayout(jPanel6Layout);
-        jPanel6Layout.setHorizontalGroup(
-            jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 121, Short.MAX_VALUE)
-        );
-        jPanel6Layout.setVerticalGroup(
-            jPanel6Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 118, Short.MAX_VALUE)
-        );
-
-        jPanel1.add(jPanel6);
-
         getContentPane().add(jPanel1);
+
+        jPanel7.setLayout(new java.awt.GridLayout(2, 1));
+
+        jLabel8.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        jLabel8.setText("Colmena");
+        jPanel7.add(jLabel8);
+
+        labelColmena.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        labelColmena.setText("jLabel1");
+        jPanel7.add(labelColmena);
+
+        getContentPane().add(jPanel7);
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
@@ -292,12 +296,18 @@ public class Ventan extends javax.swing.JFrame {
     private javax.swing.JLabel cruzabos;
     private javax.swing.JLabel cruzacen;
     private javax.swing.JLabel cruzalab;
+    private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel2;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel5;
+    private javax.swing.JLabel jLabel6;
+    private javax.swing.JLabel jLabel7;
+    private javax.swing.JLabel jLabel8;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
     private javax.swing.JPanel jPanel3;
-    private javax.swing.JPanel jPanel4;
-    private javax.swing.JPanel jPanel5;
-    private javax.swing.JPanel jPanel6;
+    private javax.swing.JPanel jPanel7;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane10;
     private javax.swing.JScrollPane jScrollPane11;
@@ -375,8 +385,7 @@ public class Ventan extends javax.swing.JFrame {
         txtZalcD.setText(zonas.getDemosEnZonaUpsideDown(3));
         
         
-        labelColmena.setText("Colmena:\n"+
-                "Niños: "+zonas.getNinosEnColmena());
+        labelColmena.setText("Niños: "+zonas.getNinosEnColmena());
     }
 }
 

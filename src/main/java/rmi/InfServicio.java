@@ -16,9 +16,12 @@ import java.util.Map;
 
 public interface InfServicio extends Remote {
     int getTotalNinosHawkins() throws RemoteException;
-    String getEstadoPortales() throws RemoteException;
-    String getEstadoUpsideDown() throws RemoteException;
+    int[] getConteosPortales() throws RemoteException; // Array de 4 enteros
+    int[] getConteosNinosUpsideDown() throws RemoteException;//igual
+    int[] getConteosDemosUpsideDown() throws RemoteException;//igual
+    int getNinosColmena() throws RemoteException;
     Map<String, Integer> getRankingDemogorgons() throws RemoteException;
-    String getEventoActivo() throws RemoteException;
+    String getNombreEvento() throws RemoteException;
+    int getTiempoRestanteEvento() throws RemoteException;
     void pausarReanudarPrograma() throws RemoteException;
 }

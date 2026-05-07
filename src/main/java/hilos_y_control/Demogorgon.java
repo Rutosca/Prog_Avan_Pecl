@@ -67,21 +67,29 @@ public class Demogorgon extends Thread {
                         zonaActual = nuevaZona;
                     }
                 }
+                //comprobar pausa del boton (varias veces)
+                zonas.comprobarPausa();
                 //si acaba de nacer y hay apagon, no tiene zona a la que ir, no puede cazar
                 if (zonaActual != -1) {
                     String presa = zonas.iniciarAtaque(zonaActual, id);
 
                     if (presa == null) {
-                        sleep(randomEntre(4000, 5000)); // sin presa
+                        sleepConPausa(randomEntre(4000, 5000)); // sin presa
+                        //comprobar pausa del boton (varias veces)
+                        zonas.comprobarPausa();
                     } else {
                         //hay presa
                         int caza = randomEntre(500, 1500);
                         if (zonas.tormentaActiva()) caza /= 2;
-                        sleep(caza);
+                        sleepConPausa(caza);
                         
+                        //comprobar pausa del boton (varias veces)
+                        zonas.comprobarPausa();
                         if (zonas.finalizarAtaque(id, presa, zonaActual)) {
                             //Traslado a colmena
-                            sleep(randomEntre(500, 1000)); 
+                            sleepConPausa(randomEntre(500, 1000)); 
+                            //comprobar pausa del boton (varias veces)
+                            zonas.comprobarPausa();
                             //contador global
                             int capturasGlobales = zonas.registrarCapturaFinalizada(id);
                             //multiplo de 8 caputras, nuevo demogorgon
@@ -114,5 +122,14 @@ public class Demogorgon extends Thread {
 
     private int randomEntre(int min, int max) {
         return min + (int)(Math.random() * (max - min));
+    }
+    private void sleepConPausa(int ms) throws InterruptedException {
+        int restante = ms;
+        while (restante > 0) {
+            zonas.comprobarPausa();
+            int trozo = Math.min(100, restante);
+            sleep(trozo);
+            restante -= trozo;
+        }
     }
 }

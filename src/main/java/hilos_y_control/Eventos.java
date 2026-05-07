@@ -66,24 +66,32 @@ public class Eventos extends Thread {
         for (int i = 0; i < 4; i++) {
             portales[i].setApagon(true);
         }
-        sleep(randomEntre(5000, 10000)); 
+        int duracion = randomEntre(5000, 10000);
+        zonas.registrarEventoGlobal("Apagón del laboratorio", duracion);
+        
+        //sleep el hilo
+        sleep(duracion);
 
         //termina. se pone a false
         zonas.setApagon(false);
         for (int i = 0; i < 4; i++) {
             portales[i].setApagon(false);
         }
-
+        zonas.registrarEventoGlobal("Sin evento activo", 0);
         Proteccion.registrarEvento("Fin del evento: apagón del laboratorio");
     }
     private void ejecutarTormenta() throws InterruptedException {
         Proteccion.registrarEvento("Evento: tormenta del UpsideDown");
         //hay tormenta
         zonas.setTormenta(true);
-        sleep(randomEntre(5000, 10000)); 
+        
+        int duracion = randomEntre(5000, 10000);
+        zonas.registrarEventoGlobal("Tormenta UpsideDown", duracion);
+               
+        sleep(duracion);
         //termina. se pone a false
         zonas.setTormenta(false);
-        
+        zonas.registrarEventoGlobal("Sin evento activo", 0);
         Proteccion.registrarEvento("Fin del evento: tormenta del UpsideDown");
     }
     
@@ -95,10 +103,13 @@ public class Eventos extends Thread {
         //liberación niños
         zonas.rescateEleven();
         //duracion
-        sleep(randomEntre(5000, 10000)); 
+        int duracion = randomEntre(5000, 10000);
+        zonas.registrarEventoGlobal("Rescate de Eleven", duracion);
+               
+        sleep(duracion);
         // fin efecto en demogorgons
         zonas.setEleven(false);
-
+        zonas.registrarEventoGlobal("Sin evento activo", 0);
         Proteccion.registrarEvento("Fin del evento: intervención de Eleven");
     }
     private void ejecutarRedMental() throws InterruptedException {
@@ -106,11 +117,12 @@ public class Eventos extends Thread {
 
         zonas.setRedMental(true);
 
-        // Duración del evento (5 a 10 segundos)
-        sleep(randomEntre(5000, 10000)); 
+        int duracion = randomEntre(5000, 10000);
+        zonas.registrarEventoGlobal("Red Mental de Vecna", duracion);      
+        sleep(duracion);
 
         zonas.setRedMental(false);
-
+        zonas.registrarEventoGlobal("Sin evento activo", 0);
         Proteccion.registrarEvento("Fin del evento: red mental de Vecna");
     }
     private int randomEntre(int min, int max) {

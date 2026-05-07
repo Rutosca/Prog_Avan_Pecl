@@ -29,42 +29,59 @@ public class Servicio extends UnicastRemoteObject implements InfServicio {
 
     @Override
     public int getTotalNinosHawkins() throws RemoteException {
-        // Sumas el tamaño de las listas Calle, Sotano y Radio de tu clase Zonas
-        return zonas.getCallePrincipalTexto().split(", ").length + 
-               zonas.getSotanoByersTexto().split(", ").length + 
-               zonas.getRadioWSQKTexto().split(", ").length; 
+        return zonas.getConteoHawkinsTotal();
     }
 
     @Override
-    public String getEstadoPortales() throws RemoteException {
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < 4; i++) {
-            sb.append("Portal ").append(i+1).append(": ")
-              .append(portales[i].getIdaTexto()).append("\n");
-        }
-        return sb.toString();
+    public int[] getConteosPortales() throws RemoteException {
+        return new int[] {
+            portales[0].getConteoTotalPortal(),
+            portales[1].getConteoTotalPortal(),
+            portales[2].getConteoTotalPortal(),
+            portales[3].getConteoTotalPortal()
+        };
     }
 
     @Override
-    public String getEstadoUpsideDown() throws RemoteException {
-        return "Colmena: " + zonas.getNinosEnColmena() + " capturados";
+    public int[] getConteosNinosUpsideDown() throws RemoteException {
+        return new int[] {
+            zonas.getConteoNinosZona(0), zonas.getConteoNinosZona(1),
+            zonas.getConteoNinosZona(2), zonas.getConteoNinosZona(3)
+        };
     }
 
+    @Override
+    public int[] getConteosDemosUpsideDown() throws RemoteException {
+        return new int[] {
+            zonas.getConteoDemosZona(0), zonas.getConteoDemosZona(1),
+            zonas.getConteoDemosZona(2), zonas.getConteoDemosZona(3)
+        };
+    }
     @Override
     public Map<String, Integer> getRankingDemogorgons() throws RemoteException {
-        return zonas.getRankingDemogorgons();
+        // Borra la línea del throw new UnsupportedOperationException
+        return zonas.getRankingDemogorgons(); 
     }
 
     @Override
-    public String getEventoActivo() throws RemoteException {
-        if (zonas.siApagonActivo()) return "Apagón del Laboratorio";
-        if (zonas.tormentaActiva()) return "Tormenta Upside Down";
-        if (zonas.redActiva()) return "Red Mental";
-        return "Sin evento activo";
+    public int getNinosColmena() throws RemoteException {
+        return zonas.getNinosEnColmena();
+    }
+
+    @Override
+    public String getNombreEvento() throws RemoteException {
+        return zonas.getNombreEvento();
+    }
+
+    @Override
+    public int getTiempoRestanteEvento() throws RemoteException {
+        return zonas.getSegundosRestantesEvento();
     }
 
     @Override
     public void pausarReanudarPrograma() throws RemoteException {
         zonas.botonPausa();
     }
+
+    
 }
