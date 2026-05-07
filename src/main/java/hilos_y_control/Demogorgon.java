@@ -32,13 +32,15 @@ public class Demogorgon extends Thread {
     public static synchronized void registrarDemogorgonInicial() {
         totalDemogorgons++;
         // Asegura que generadorIds esté siempre por encima del último usado
-        generadorIds = Math.max(generadorIds, totalDemogorgons + 1);
+        generadorIds = Math.max(generadorIds, totalDemogorgons);
     }
 
     @Override
     public void run() {
         while (true) {
             try {
+                //comprobar pausa del boton
+                zonas.comprobarPausa();
                 //comprobar evento Eleven al principio (ponerlo entre medias puede causar corrupción de datos)
                 zonas.comprobarParalisis();
                 

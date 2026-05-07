@@ -285,4 +285,22 @@ public class Zonas {
     public synchronized String getDemosEnZonaUpsideDown(int zona) {
         return String.join(", ", listaZDemos.get(zona));
     }
+    
+    
+    //el botón de pausa
+    private boolean pausaGlobal = false;
+
+    public synchronized void botonPausa() {
+        pausaGlobal = !pausaGlobal;
+        if (!pausaGlobal) {
+            notifyAll(); // Despierta a todo el mundo al reanudar
+        }
+        Proteccion.registrarEvento(pausaGlobal ? "SISTEMA PAUSADO DESDE REMOTO" : "SISTEMA REANUDADO");
+    }
+
+    public synchronized void comprobarPausa() throws InterruptedException {
+        while (pausaGlobal) {
+            wait();
+        }
+    }
 }

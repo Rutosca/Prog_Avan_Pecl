@@ -30,6 +30,8 @@ public class Nino extends Thread {
     public void run(){
          while (true){
             try {
+                //comprobar pausa del boton
+                zonas.comprobarPausa();
                 //va al sótano
                 zonas.moverASotanoByers(id);
                 sleep(randomEntre(1000, 2000));

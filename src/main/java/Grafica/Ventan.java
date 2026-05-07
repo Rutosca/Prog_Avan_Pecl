@@ -375,7 +375,8 @@ public class Ventan extends javax.swing.JFrame {
         txtZalcD.setText(zonas.getDemosEnZonaUpsideDown(3));
         
         
-        labelColmena.setText("Colmena:\n Niños: "+zonas.getNinosEnColmena());
+        labelColmena.setText("Colmena:\n"+
+                "Niños: "+zonas.getNinosEnColmena());
     }
 }
 

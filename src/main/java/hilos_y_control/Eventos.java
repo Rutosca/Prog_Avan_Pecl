@@ -25,7 +25,9 @@ public class Eventos extends Thread {
     public void run() {
         while (true) {
             try {
-                // 1. Tiempo de calma entre eventos (30 a 60 segundos)
+                //comprobar pausa del boton
+                zonas.comprobarPausa();
+                
                 sleep(randomEntre(30000, 60000));
 
                 int tipoEvento = randomEntre(0, 4);
