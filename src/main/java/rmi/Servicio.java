@@ -59,8 +59,12 @@ public class Servicio extends UnicastRemoteObject implements InfServicio {
     }
     @Override
     public Map<String, Integer> getRankingDemogorgons() throws RemoteException {
-        // Borra la línea del throw new UnsupportedOperationException
-        return zonas.getRankingDemogorgons(); 
+        return zonas.getRankingDemogorgons().entrySet().stream()
+            .sorted(Map.Entry.<String, Integer>comparingByValue().reversed())
+            .limit(3)
+            .collect(java.util.LinkedHashMap::new,
+                     (m, e) -> m.put(e.getKey(), e.getValue()),
+                     java.util.LinkedHashMap::putAll);
     }
 
     @Override
